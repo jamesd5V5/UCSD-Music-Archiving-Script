@@ -1,6 +1,6 @@
 UCSD Music Archiving Project
 Summer 2024
-Version 1.1.0
+Version 1.2.0
 
 Most Concert Files Before 2012 have been mislabelled
 This script renames the files with the specfic issue.
