@@ -1,0 +1,244 @@
+20101002-APEmerson=====Done=====20101006-WED7KarisCurtis=====Done=====20101011-MTrio1=====Done=====20101015-CTavolacci1=====Done=====20101017-FallJuries=====Done=====20101020-WED7Newton=====Done=====20101021-APFaure=====Done=====20101023-Soiree1    1 [Stereo 96] 20101023-01-ConcertoInDNo2.wav -> 20101023-Soiree1-01-ConcertoInDNo2.wav
+    2 [Stereo 96] 20101023-02-SonataInDKV448.wav -> 20101023-Soiree1-02-SonataInDKV448.wav
+    3 [Stereo 96] 20101023-03-StringSextet2Op36.wav -> 20101023-Soiree1-03-StringSextet2Op36.wav
+    4 [Stereo 96] 20101023-04-ConcertoForSitar.wav -> 20101023-Soiree1-04-ConcertoForSitar.wav
+    5 [MP3] 20101023-01-ConcertoInDNo2.mp3 -> 20101023-Soiree1-01-ConcertoInDNo2.mp3
+    6 [MP3] 20101023-02-SonataInDKV448.mp3 -> 20101023-Soiree1-02-SonataInDKV448.mp3
+    7 [MP3] 20101023-03-StringSextet2Op36.mp3 -> 20101023-Soiree1-03-StringSextet2Op36.mp3
+    8 [MP3] 20101023-04-ConcertoForSitar.mp3 -> 20101023-Soiree1-04-ConcertoForSitar.mp3
+    9 [Joint MP3s] 20101023-01-ConcertoInDNo2.mp3 -> 20101023-Soiree1-01-ConcertoInDNo2.mp3
+    10 [Joint MP3s] 20101023-02-SonataInDKV448.mp3 -> 20101023-Soiree1-02-SonataInDKV448.mp3
+    11 [Joint MP3s] 20101023-03-StringSextet2Op36.mp3 -> 20101023-Soiree1-03-StringSextet2Op36.mp3
+    12 [Joint MP3s] 20101023-04-ConcertoForSitar.mp3 -> 20101023-Soiree1-04-ConcertoForSitar.mp3
+=====Done=====20101025-CamLu1    13 [Stereo 96] 20101025-01-QuartetFmajor.wav -> 20101025-CamLu1-01-QuartetFmajor.wav
+    14 [Stereo 96] 20101025-02-Mladi.wav -> 20101025-CamLu1-02-Mladi.wav
+    15 [Stereo 96] 20101025-03-OctetFmajor.wav -> 20101025-CamLu1-03-OctetFmajor.wav
+    16 [MP3] 20101025-01-QuartetFmajor.mp3 -> 20101025-CamLu1-01-QuartetFmajor.mp3
+    17 [MP3] 20101025-02-Mladi.mp3 -> 20101025-CamLu1-02-Mladi.mp3
+    18 [MP3] 20101025-03-OctetFmajor.mp3 -> 20101025-CamLu1-03-OctetFmajor.mp3
+    19 [Joint MP3s] 20101025-01-QuartetFmajor.mp3 -> 20101025-CamLu1-01-QuartetFmajor.mp3
+    20 [Joint MP3s] 20101025-02-Mladi.mp3 -> 20101025-CamLu1-02-Mladi.mp3
+    21 [Joint MP3s] 20101025-03-OctetFmajor.mp3 -> 20101025-CamLu1-03-OctetFmajor.mp3
+=====Done=====20101028-TDuMouchelle1=====Done=====20101101-1stMonNov    22 [Stereo 96] 20101101-01-InterfaceChapel.wav -> 20101101-1stMonNov-01-InterfaceChapel.wav
+    23 [Stereo 96] 20101101-02-Mu.wav -> 20101101-1stMonNov-02-Mu.wav
+    24 [Stereo 96] 20101101-03-Anestetici.wav -> 20101101-1stMonNov-03-Anestetici.wav
+    25 [MP3] 20101101-01-InterfaceChapel.mp3 -> 20101101-1stMonNov-01-InterfaceChapel.mp3
+    26 [MP3] 20101101-02-Mu.mp3 -> 20101101-1stMonNov-02-Mu.mp3
+    27 [MP3] 20101101-03-Anestetici.mp3 -> 20101101-1stMonNov-03-Anestetici.mp3
+    28 [Joint MP3s] 20101101-01-InterfaceChapel.mp3 -> 20101101-1stMonNov-01-InterfaceChapel.mp3
+    29 [Joint MP3s] 20101101-02-Mu.mp3 -> 20101101-1stMonNov-02-Mu.mp3
+    30 [Joint MP3s] 20101101-03-Anestetici.mp3 -> 20101101-1stMonNov-03-Anestetici.mp3
+=====Done=====20101104-GradForum1    31 [Stereo 96] 20101104-01-PlayerPiano11.wav -> 20101104-GradForum1-01-PlayerPiano11.wav
+    32 [Stereo 96] 20101104-02-Navarropissen.wav -> 20101104-GradForum1-02-Navarropissen.wav
+    33 [Stereo 96] 20101104-03-SaxophoneDrill.wav -> 20101104-GradForum1-03-SaxophoneDrill.wav
+    34 [Stereo 96] 20101104-04-Fever.wav -> 20101104-GradForum1-04-Fever.wav
+    35 [Stereo 96] 20101104-05-Approaching.wav -> 20101104-GradForum1-05-Approaching.wav
+    36 [Stereo 96] 20101104-06-PlayerPiano22.wav -> 20101104-GradForum1-06-PlayerPiano22.wav
+    37 [Stereo 96] 20101104-07-Squirrel.wav -> 20101104-GradForum1-07-Squirrel.wav
+    38 [Stereo 96] 20101104-08-TheWaiting.wav -> 20101104-GradForum1-08-TheWaiting.wav
+    39 [Stereo 96] 20101104-09-Falling.wav -> 20101104-GradForum1-09-Falling.wav
+    40 [Stereo 96] 20101104-10-CircusGallop.wav -> 20101104-GradForum1-10-CircusGallop.wav
+    41 [MP3] 20101104-01-PlayerPiano11.mp3 -> 20101104-GradForum1-01-PlayerPiano11.mp3
+    42 [MP3] 20101104-02-Navarropissen.mp3 -> 20101104-GradForum1-02-Navarropissen.mp3
+    43 [MP3] 20101104-03-SaxophoneDrill.mp3 -> 20101104-GradForum1-03-SaxophoneDrill.mp3
+    44 [MP3] 20101104-04-Fever.mp3 -> 20101104-GradForum1-04-Fever.mp3
+    45 [MP3] 20101104-05-Approaching.mp3 -> 20101104-GradForum1-05-Approaching.mp3
+    46 [MP3] 20101104-06-PlayerPiano22.mp3 -> 20101104-GradForum1-06-PlayerPiano22.mp3
+    47 [MP3] 20101104-07-Squirrel.mp3 -> 20101104-GradForum1-07-Squirrel.mp3
+    48 [MP3] 20101104-08-TheWaiting.mp3 -> 20101104-GradForum1-08-TheWaiting.mp3
+    49 [MP3] 20101104-09-Falling.mp3 -> 20101104-GradForum1-09-Falling.mp3
+    50 [MP3] 20101104-10-CircusGallop.mp3 -> 20101104-GradForum1-10-CircusGallop.mp3
+    51 [Joint MP3s] 20101104-01-PlayerPiano11.mp3 -> 20101104-GradForum1-01-PlayerPiano11.mp3
+    52 [Joint MP3s] 20101104-02-Navarropissen.mp3 -> 20101104-GradForum1-02-Navarropissen.mp3
+    53 [Joint MP3s] 20101104-03-SaxophoneDrill.mp3 -> 20101104-GradForum1-03-SaxophoneDrill.mp3
+    54 [Joint MP3s] 20101104-04-Fever.mp3 -> 20101104-GradForum1-04-Fever.mp3
+    55 [Joint MP3s] 20101104-05-Approaching.mp3 -> 20101104-GradForum1-05-Approaching.mp3
+    56 [Joint MP3s] 20101104-06-PlayerPiano22.mp3 -> 20101104-GradForum1-06-PlayerPiano22.mp3
+    57 [Joint MP3s] 20101104-07-Squirrel.mp3 -> 20101104-GradForum1-07-Squirrel.mp3
+    58 [Joint MP3s] 20101104-08-TheWaiting.mp3 -> 20101104-GradForum1-08-TheWaiting.mp3
+    59 [Joint MP3s] 20101104-09-Falling.mp3 -> 20101104-GradForum1-09-Falling.mp3
+    60 [Joint MP3s] 20101104-10-CircusGallop.mp3 -> 20101104-GradForum1-10-CircusGallop.mp3
+=====Done=====20101105-GuitarFest    61 [Stereo 96] 20101105-01-CancionDanza.wav -> 20101105-GuitarFest-01-CancionDanza.wav
+    62 [Stereo 96] 20101105-02-Balleto.wav -> 20101105-GuitarFest-02-Balleto.wav
+    63 [Stereo 96] 20101105-03-Torina.wav -> 20101105-GuitarFest-03-Torina.wav
+    64 [Stereo 96] 20101105-04-LosTrigales.wav -> 20101105-GuitarFest-04-LosTrigales.wav
+    65 [Stereo 96] 20101105-05-Choro.wav -> 20101105-GuitarFest-05-Choro.wav
+    66 [Stereo 96] 20101105-06-AguayVino.wav -> 20101105-GuitarFest-06-AguayVino.wav
+    67 [Stereo 96] 20101105-07-Sunburst.wav -> 20101105-GuitarFest-07-Sunburst.wav
+    68 [Stereo 96] 20101105-08-MadrigalMartin.wav -> 20101105-GuitarFest-08-MadrigalMartin.wav
+    69 [Stereo 96] 20101105-09-Rioplatenses.wav -> 20101105-GuitarFest-09-Rioplatenses.wav
+    70 [Stereo 96] 20101105-10-Estrellita.wav -> 20101105-GuitarFest-10-Estrellita.wav
+    71 [MP3] 20101105-01-CancionDanza.mp3 -> 20101105-GuitarFest-01-CancionDanza.mp3
+    72 [MP3] 20101105-02-Balleto.mp3 -> 20101105-GuitarFest-02-Balleto.mp3
+    73 [MP3] 20101105-03-Torina.mp3 -> 20101105-GuitarFest-03-Torina.mp3
+    74 [MP3] 20101105-04-LosTrigales.mp3 -> 20101105-GuitarFest-04-LosTrigales.mp3
+    75 [MP3] 20101105-05-Choro.mp3 -> 20101105-GuitarFest-05-Choro.mp3
+    76 [MP3] 20101105-06-AguayVino.mp3 -> 20101105-GuitarFest-06-AguayVino.mp3
+    77 [MP3] 20101105-07-Sunburst.mp3 -> 20101105-GuitarFest-07-Sunburst.mp3
+    78 [MP3] 20101105-08-MadrigalMartin.mp3 -> 20101105-GuitarFest-08-MadrigalMartin.mp3
+    79 [MP3] 20101105-09-Rioplatenses.mp3 -> 20101105-GuitarFest-09-Rioplatenses.mp3
+    80 [MP3] 20101105-10-Estrellita.mp3 -> 20101105-GuitarFest-10-Estrellita.mp3
+    81 [Joint MP3s] 20101105-01-CancionDanza.mp3 -> 20101105-GuitarFest-01-CancionDanza.mp3
+    82 [Joint MP3s] 20101105-02-Balleto.mp3 -> 20101105-GuitarFest-02-Balleto.mp3
+    83 [Joint MP3s] 20101105-03-Torina.mp3 -> 20101105-GuitarFest-03-Torina.mp3
+    84 [Joint MP3s] 20101105-04-LosTrigales.mp3 -> 20101105-GuitarFest-04-LosTrigales.mp3
+    85 [Joint MP3s] 20101105-05-Choro.mp3 -> 20101105-GuitarFest-05-Choro.mp3
+    86 [Joint MP3s] 20101105-06-AguayVino.mp3 -> 20101105-GuitarFest-06-AguayVino.mp3
+    87 [Joint MP3s] 20101105-07-Sunburst.mp3 -> 20101105-GuitarFest-07-Sunburst.mp3
+    88 [Joint MP3s] 20101105-08-MadrigalMartin.mp3 -> 20101105-GuitarFest-08-MadrigalMartin.mp3
+    89 [Joint MP3s] 20101105-09-Rioplatenses.mp3 -> 20101105-GuitarFest-09-Rioplatenses.mp3
+    90 [Joint MP3s] 20101105-10-Estrellita.mp3 -> 20101105-GuitarFest-10-Estrellita.mp3
+=====Done=====20101113-GradForum2=====Done=====20101117-WED7Palimpsest1    91 [Stereo 96] 20101117-01-AFuoco.wav -> 20101117-WED7Palimpsest1-01-AFuoco.wav
+    92 [Stereo 96] 20101117-02-Hrim.wav -> 20101117-WED7Palimpsest1-02-Hrim.wav
+    93 [Stereo 96] 20101117-03-ListeningToTime.wav -> 20101117-WED7Palimpsest1-03-ListeningToTime.wav
+    94 [Stereo 96] 20101117-04-Kammerkonzerrt.wav -> 20101117-WED7Palimpsest1-04-Kammerkonzerrt.wav
+    95 [MP3] 20101117-01-AFuoco.mp3 -> 20101117-WED7Palimpsest1-01-AFuoco.mp3
+    96 [MP3] 20101117-02-Hrim.mp3 -> 20101117-WED7Palimpsest1-02-Hrim.mp3
+    97 [MP3] 20101117-03-ListeningToTime.mp3 -> 20101117-WED7Palimpsest1-03-ListeningToTime.mp3
+    98 [MP3] 20101117-04-Kammerkonzerrt.mp3 -> 20101117-WED7Palimpsest1-04-Kammerkonzerrt.mp3
+    99 [Joint MP3s] 20101117-01-AFuoco.mp3 -> 20101117-WED7Palimpsest1-01-AFuoco.mp3
+    100 [Joint MP3s] 20101117-02-Hrim.mp3 -> 20101117-WED7Palimpsest1-02-Hrim.mp3
+    101 [Joint MP3s] 20101117-03-ListeningToTime.mp3 -> 20101117-WED7Palimpsest1-03-ListeningToTime.mp3
+    102 [Joint MP3s] 20101117-04-Kammerkonzerrt.mp3 -> 20101117-WED7Palimpsest1-04-Kammerkonzerrt.mp3
+=====Done=====20101118-rfbf1    103 [Stereo 96] 20101118-01-amores.wav -> 20101118-rfbf1-01-amores.wav
+    104 [Stereo 96] 20101118-02-doublemusic.wav -> 20101118-rfbf1-02-doublemusic.wav
+    105 [Stereo 96] 20101118-03-okho.wav -> 20101118-rfbf1-03-okho.wav
+    106 [Stereo 96] 20101118-04-thewindsofdestiny.wav -> 20101118-rfbf1-04-thewindsofdestiny.wav
+    107 [MP3] 20101118-01-amores.mp3 -> 20101118-rfbf1-01-amores.mp3
+    108 [MP3] 20101118-02-doublemusic.mp3 -> 20101118-rfbf1-02-doublemusic.mp3
+    109 [MP3] 20101118-03-okho.mp3 -> 20101118-rfbf1-03-okho.mp3
+    110 [MP3] 20101118-04-thewindsofdestiny.mp3 -> 20101118-rfbf1-04-thewindsofdestiny.mp3
+    111 [Joint MP3s] 20101118-01-amores.mp3 -> 20101118-rfbf1-01-amores.mp3
+    112 [Joint MP3s] 20101118-02-doublemusic.mp3 -> 20101118-rfbf1-02-doublemusic.mp3
+    113 [Joint MP3s] 20101118-03-okho.mp3 -> 20101118-rfbf1-03-okho.mp3
+    114 [Joint MP3s] 20101118-04-thewindsofdestiny.mp3 -> 20101118-rfbf1-04-thewindsofdestiny.mp3
+=====Done=====20101120-CMiller    115 [Stereo 96] 20101120-01-ClairIandII.wav -> 20101120-CMiller-01-ClairIandII.wav
+    116 [Stereo 96] 20101120-02-Omaggio.wav -> 20101120-CMiller-02-Omaggio.wav
+    117 [Stereo 96] 20101120-03-Todesengel.wav -> 20101120-CMiller-03-Todesengel.wav
+    118 [Stereo 96] 20101120-04-TreatiseLetMeDie.wav -> 20101120-CMiller-04-TreatiseLetMeDie.wav
+    119 [MP3] 20101120-01-ClairIandII.mp3 -> 20101120-CMiller-01-ClairIandII.mp3
+    120 [MP3] 20101120-02-Omaggio.mp3 -> 20101120-CMiller-02-Omaggio.mp3
+    121 [MP3] 20101120-03-Todesengel.mp3 -> 20101120-CMiller-03-Todesengel.mp3
+    122 [MP3] 20101120-04-TreatiseLetMeDie.mp3 -> 20101120-CMiller-04-TreatiseLetMeDie.mp3
+    123 [Joint MP3s] 20101120-01-ClairIandII.mp3 -> 20101120-CMiller-01-ClairIandII.mp3
+    124 [Joint MP3s] 20101120-02-Omaggio.mp3 -> 20101120-CMiller-02-Omaggio.mp3
+    125 [Joint MP3s] 20101120-03-Todesengel.mp3 -> 20101120-CMiller-03-Todesengel.mp3
+    126 [Joint MP3s] 20101120-04-TreatiseLetMeDie.mp3 -> 20101120-CMiller-04-TreatiseLetMeDie.mp3
+=====Done=====20101122-201B    127 [Stereo 96] 20101122-01-spontaneouscombustion.wav -> 20101122-201B-01-spontaneouscombustion.wav
+    128 [Joint MP3s] 20101122-01-spontaneouscombustion.mp3 -> 20101122-201B-01-spontaneouscombustion.mp3
+Unbalanced Changes=====Done=====20101129-95jc1    129 [Stereo 96] 20101129-01-ihaveadream.wav -> 20101129-95jc1-01-ihaveadream.wav
+    130 [Stereo 96] 20101129-02-misterios.wav -> 20101129-95jc1-02-misterios.wav
+    131 [Stereo 96] 20101129-03-detroit.wav -> 20101129-95jc1-03-detroit.wav
+    132 [Stereo 96] 20101129-04-afterthegig.wav -> 20101129-95jc1-04-afterthegig.wav
+    133 [Stereo 96] 20101129-05-thatshimoverthere.wav -> 20101129-95jc1-05-thatshimoverthere.wav
+    134 [Stereo 96] 20101129-06-percussion.wav -> 20101129-95jc1-06-percussion.wav
+    135 [Stereo 96] 20101129-07-waltz.wav -> 20101129-95jc1-07-waltz.wav
+    136 [Stereo 96] 20101129-08-dreams.wav -> 20101129-95jc1-08-dreams.wav
+    137 [Stereo 96] 20101129-09-medley.wav -> 20101129-95jc1-09-medley.wav
+    138 [Stereo 96] 20101129-10-firstcircle.wav -> 20101129-95jc1-10-firstcircle.wav
+    139 [MP3] 20101129-01-ihaveadream.mp3 -> 20101129-95jc1-01-ihaveadream.mp3
+    140 [MP3] 20101129-02-misterios.mp3 -> 20101129-95jc1-02-misterios.mp3
+    141 [MP3] 20101129-03-detroit.mp3 -> 20101129-95jc1-03-detroit.mp3
+    142 [MP3] 20101129-04-afterthegig.mp3 -> 20101129-95jc1-04-afterthegig.mp3
+    143 [MP3] 20101129-05-thatshimoverthere.mp3 -> 20101129-95jc1-05-thatshimoverthere.mp3
+    144 [MP3] 20101129-06-percussion.mp3 -> 20101129-95jc1-06-percussion.mp3
+    145 [MP3] 20101129-07-waltz.mp3 -> 20101129-95jc1-07-waltz.mp3
+    146 [MP3] 20101129-08-dreams.mp3 -> 20101129-95jc1-08-dreams.mp3
+    147 [MP3] 20101129-09-medley.mp3 -> 20101129-95jc1-09-medley.mp3
+    148 [MP3] 20101129-10-firstcircle.mp3 -> 20101129-95jc1-10-firstcircle.mp3
+Unbalanced Changes=====Done=====20101130-Gospel1=====Done=====20101201-ChamEnsem1    149 [Stereo 96] 20101201-01-ConcertoNoel.wav -> 20101201-ChamEnsem1-01-ConcertoNoel.wav
+    150 [Stereo 96] 20101201-02-Suitefortwocellos.wav -> 20101201-ChamEnsem1-02-Suitefortwocellos.wav
+    151 [Stereo 96] 20101201-03-MaidenFair.wav -> 20101201-ChamEnsem1-03-MaidenFair.wav
+    152 [Stereo 96] 20101201-04-FluteTrio.wav -> 20101201-ChamEnsem1-04-FluteTrio.wav
+    153 [Stereo 96] 20101201-05-IchBin.wav -> 20101201-ChamEnsem1-05-IchBin.wav
+    154 [Stereo 96] 20101201-06-TelemannConcerto.wav -> 20101201-ChamEnsem1-06-TelemannConcerto.wav
+    155 [Stereo 96] 20101201-07-Requiem.wav -> 20101201-ChamEnsem1-07-Requiem.wav
+    156 [Stereo 96] 20101201-08-Bagatelles.wav -> 20101201-ChamEnsem1-08-Bagatelles.wav
+    157 [Stereo 96] 20101201-09-SixJapaneseSongs.wav -> 20101201-ChamEnsem1-09-SixJapaneseSongs.wav
+    158 [Stereo 96] 20101201-10-FivePiecesforFlute.wav -> 20101201-ChamEnsem1-10-FivePiecesforFlute.wav
+    159 [Stereo 96] 20101201-11-Vocalise2.wav -> 20101201-ChamEnsem1-11-Vocalise2.wav
+    160 [Stereo 96] 20101201-12-StringQuartet.wav -> 20101201-ChamEnsem1-12-StringQuartet.wav
+    161 [MP3] 20101201-01-ConcertoNoel.mp3 -> 20101201-ChamEnsem1-01-ConcertoNoel.mp3
+    162 [MP3] 20101201-02-Suitefortwocellos.mp3 -> 20101201-ChamEnsem1-02-Suitefortwocellos.mp3
+    163 [MP3] 20101201-03-MaidenFair.mp3 -> 20101201-ChamEnsem1-03-MaidenFair.mp3
+    164 [MP3] 20101201-04-FluteTrio.mp3 -> 20101201-ChamEnsem1-04-FluteTrio.mp3
+    165 [MP3] 20101201-05-IchBin.mp3 -> 20101201-ChamEnsem1-05-IchBin.mp3
+    166 [MP3] 20101201-06-TelemannConcerto.mp3 -> 20101201-ChamEnsem1-06-TelemannConcerto.mp3
+    167 [MP3] 20101201-07-Requiem.mp3 -> 20101201-ChamEnsem1-07-Requiem.mp3
+    168 [MP3] 20101201-08-Bagatelles.mp3 -> 20101201-ChamEnsem1-08-Bagatelles.mp3
+    169 [MP3] 20101201-09-SixJapaneseSongs.mp3 -> 20101201-ChamEnsem1-09-SixJapaneseSongs.mp3
+    170 [MP3] 20101201-10-FivePiecesforFlute.mp3 -> 20101201-ChamEnsem1-10-FivePiecesforFlute.mp3
+    171 [MP3] 20101201-11-Vocalise2.mp3 -> 20101201-ChamEnsem1-11-Vocalise2.mp3
+    172 [MP3] 20101201-12-StringQuartet.mp3 -> 20101201-ChamEnsem1-12-StringQuartet.mp3
+    173 [Joint MP3s] 20101201-01-ConcertoNoel.mp3 -> 20101201-ChamEnsem1-01-ConcertoNoel.mp3
+    174 [Joint MP3s] 20101201-02-Suitefortwocellos.mp3 -> 20101201-ChamEnsem1-02-Suitefortwocellos.mp3
+    175 [Joint MP3s] 20101201-03-MaidenFair.mp3 -> 20101201-ChamEnsem1-03-MaidenFair.mp3
+    176 [Joint MP3s] 20101201-04-FluteTrio.mp3 -> 20101201-ChamEnsem1-04-FluteTrio.mp3
+    177 [Joint MP3s] 20101201-05-IchBin.mp3 -> 20101201-ChamEnsem1-05-IchBin.mp3
+    178 [Joint MP3s] 20101201-06-TelemannConcerto.mp3 -> 20101201-ChamEnsem1-06-TelemannConcerto.mp3
+    179 [Joint MP3s] 20101201-07-Requiem.mp3 -> 20101201-ChamEnsem1-07-Requiem.mp3
+    180 [Joint MP3s] 20101201-08-Bagatelles.mp3 -> 20101201-ChamEnsem1-08-Bagatelles.mp3
+    181 [Joint MP3s] 20101201-09-SixJapaneseSongs.mp3 -> 20101201-ChamEnsem1-09-SixJapaneseSongs.mp3
+    182 [Joint MP3s] 20101201-10-FivePiecesforFlute.mp3 -> 20101201-ChamEnsem1-10-FivePiecesforFlute.mp3
+    183 [Joint MP3s] 20101201-11-Vocalise2.mp3 -> 20101201-ChamEnsem1-11-Vocalise2.mp3
+    184 [Joint MP3s] 20101201-12-StringQuartet.mp3 -> 20101201-ChamEnsem1-12-StringQuartet.mp3
+=====Done=====20101201-CompRecital=====Done=====20101202-201F    185 [Stereo 96] 20101202-01-TheGirl.wav -> 20101202-201F-01-TheGirl.wav
+    186 [Stereo 96] 20101202-02-TheOtherSide.wav -> 20101202-201F-02-TheOtherSide.wav
+    187 [Stereo 96] 20101202-03-StrongestOne.wav -> 20101202-201F-03-StrongestOne.wav
+    188 [Stereo 96] 20101202-04-Uncertainty.wav -> 20101202-201F-04-Uncertainty.wav
+    189 [Stereo 96] 20101202-05-Transformation.wav -> 20101202-201F-05-Transformation.wav
+    190 [Stereo 96] 20101202-06-AloneWorld.wav -> 20101202-201F-06-AloneWorld.wav
+    191 [Stereo 96] 20101202-07-ScaredofLight.wav -> 20101202-201F-07-ScaredofLight.wav
+    192 [Stereo 96] 20101202-08-OurStory.wav -> 20101202-201F-08-OurStory.wav
+    193 [Stereo 96] 20101202-09-StrongestReprise.wav -> 20101202-201F-09-StrongestReprise.wav
+    194 [MP3] 20101202-01-TheGirl.mp3 -> 20101202-201F-01-TheGirl.mp3
+    195 [MP3] 20101202-02-TheOtherSide.mp3 -> 20101202-201F-02-TheOtherSide.mp3
+    196 [MP3] 20101202-03-StrongestOne.mp3 -> 20101202-201F-03-StrongestOne.mp3
+    197 [MP3] 20101202-04-Uncertainty.mp3 -> 20101202-201F-04-Uncertainty.mp3
+    198 [MP3] 20101202-05-Transformation.mp3 -> 20101202-201F-05-Transformation.mp3
+    199 [MP3] 20101202-06-AloneWorld.mp3 -> 20101202-201F-06-AloneWorld.mp3
+    200 [MP3] 20101202-07-ScaredofLight.mp3 -> 20101202-201F-07-ScaredofLight.mp3
+    201 [MP3] 20101202-08-OurStory.mp3 -> 20101202-201F-08-OurStory.mp3
+    202 [MP3] 20101202-09-StrongestReprise.mp3 -> 20101202-201F-09-StrongestReprise.mp3
+    203 [Joint MP3s] 20101202-01-TheGirl.mp3 -> 20101202-201F-01-TheGirl.mp3
+    204 [Joint MP3s] 20101202-02-TheOtherSide.mp3 -> 20101202-201F-02-TheOtherSide.mp3
+    205 [Joint MP3s] 20101202-03-StrongestOne.mp3 -> 20101202-201F-03-StrongestOne.mp3
+    206 [Joint MP3s] 20101202-04-Uncertainty.mp3 -> 20101202-201F-04-Uncertainty.mp3
+    207 [Joint MP3s] 20101202-05-Transformation.mp3 -> 20101202-201F-05-Transformation.mp3
+    208 [Joint MP3s] 20101202-06-AloneWorld.mp3 -> 20101202-201F-06-AloneWorld.mp3
+    209 [Joint MP3s] 20101202-07-ScaredofLight.mp3 -> 20101202-201F-07-ScaredofLight.mp3
+    210 [Joint MP3s] 20101202-08-OurStory.mp3 -> 20101202-201F-08-OurStory.mp3
+    211 [Joint MP3s] 20101202-09-StrongestReprise.mp3 -> 20101202-201F-09-StrongestReprise.mp3
+=====Done=====20101202-Wind1    212 [Stereo 96] 20101202-01-HandelWater.wav -> 20101202-Wind1-01-HandelWater.wav
+    213 [Stereo 96] 20101202-02-BrittenGloriana.wav -> 20101202-Wind1-02-BrittenGloriana.wav
+    214 [Stereo 96] 20101202-03-WilliamsFolk.wav -> 20101202-Wind1-03-WilliamsFolk.wav
+    215 [Stereo 96] 20101202-04-GayneBallet.wav -> 20101202-Wind1-04-GayneBallet.wav
+    216 [Stereo 96] 20101202-05-JoioDances.wav -> 20101202-Wind1-05-JoioDances.wav
+    217 [Stereo 96] 20101202-06-FancyFree.wav -> 20101202-Wind1-06-FancyFree.wav
+    218 [Stereo 96] 20101202-07-Bennet.wav -> 20101202-Wind1-07-Bennet.wav
+    219 [MP3] 20101202-01-HandelWater.mp3 -> 20101202-Wind1-01-HandelWater.mp3
+    220 [MP3] 20101202-02-BrittenGloriana.mp3 -> 20101202-Wind1-02-BrittenGloriana.mp3
+    221 [MP3] 20101202-03-WilliamsFolk.mp3 -> 20101202-Wind1-03-WilliamsFolk.mp3
+    222 [MP3] 20101202-04-GayneBallet.mp3 -> 20101202-Wind1-04-GayneBallet.mp3
+    223 [MP3] 20101202-05-JoioDances.mp3 -> 20101202-Wind1-05-JoioDances.mp3
+    224 [MP3] 20101202-06-FancyFree.mp3 -> 20101202-Wind1-06-FancyFree.mp3
+    225 [MP3] 20101202-07-Bennet.mp3 -> 20101202-Wind1-07-Bennet.mp3
+    226 [Joint MP3s] 20101202-01-HandelWater.mp3 -> 20101202-Wind1-01-HandelWater.mp3
+    227 [Joint MP3s] 20101202-02-BrittenGloriana.mp3 -> 20101202-Wind1-02-BrittenGloriana.mp3
+    228 [Joint MP3s] 20101202-03-WilliamsFolk.mp3 -> 20101202-Wind1-03-WilliamsFolk.mp3
+    229 [Joint MP3s] 20101202-04-GayneBallet.mp3 -> 20101202-Wind1-04-GayneBallet.mp3
+    230 [Joint MP3s] 20101202-05-JoioDances.mp3 -> 20101202-Wind1-05-JoioDances.mp3
+    231 [Joint MP3s] 20101202-06-FancyFree.mp3 -> 20101202-Wind1-06-FancyFree.mp3
+    232 [Joint MP3s] 20101202-07-Bennet.mp3 -> 20101202-Wind1-07-Bennet.mp3
+=====Done=====20101204-LJSC3    233 [Stereo 96] 20101204-LJSC3-Solemnis.wav -> 20101204-LJSC3-01-Solemnis.wav
+    234 [MP3] 20101204-LJSC3-Solemnis.mp3 -> 20101204-LJSC3-01-Solemnis.mp3
+    235 [Joint MP3s] 20101204-LJSC3-Solemnis.mp3 -> 20101204-01-LJSC3-Solemnis.mp3
+=====Done=====20101206-1stMonDec    236 [Stereo 96] 20101206-01-freeandeasy.L.wav -> 20101206-1stMonDec-01-freeandeasy.L.wav
+    237 [Stereo 96] 20101206-01-freeandeasy.R.wav -> 20101206-1stMonDec-01-freeandeasy.R.wav
+    238 [Stereo 96] 20101206-02-harom.L.wav -> 20101206-1stMonDec-02-harom.L.wav
+    239 [Stereo 96] 20101206-02-harom.R.wav -> 20101206-1stMonDec-02-harom.R.wav
+    240 [Stereo 96] 20101206-03-gordium.L.wav -> 20101206-1stMonDec-03-gordium.L.wav
+    241 [Stereo 96] 20101206-03-gordium.R.wav -> 20101206-1stMonDec-03-gordium.R.wav
+    242 [Stereo 96] 20101206-04-plekto.L.wav -> 20101206-1stMonDec-04-plekto.L.wav
+    243 [Stereo 96] 20101206-04-plekto.R.wav -> 20101206-1stMonDec-04-plekto.R.wav
+Unbalanced Changes=====Done=====20101208-MUS103A=====Done=====20101209-1styearJuries=====Done=====

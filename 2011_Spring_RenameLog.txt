@@ -1,0 +1,648 @@
+20110325-StarQuest=====Done=====20110330-TDuMouchelle2    1 [Stereo 96] 20110330-01-KurtagKafka.wav -> 20110330-TDuMouchelle2-01-KurtagKafka.wav
+    2 [MP3] 20110330-01-KurtagKafka.mp3 -> 20110330-TDuMouchelle2-01-KurtagKafka.mp3
+    3 [Joint MP3s] 20110330-01-KurtagKafka.mp3 -> 20110330-TDuMouchelle2-01-KurtagKafka.mp3
+=====Done=====20110401-ATinkle    4 [Stereo 96] 20110401-01-AMessOfThings1.wav -> 20110401-ATinkle-01-AMessOfThings1.wav
+    5 [Stereo 96] 20110401-02-AMessOfThings2.wav -> 20110401-ATinkle-02-AMessOfThings2.wav
+    6 [MP3] 20110401-01-AMessOfThings1.mp3 -> 20110401-ATinkle-01-AMessOfThings1.mp3
+    7 [MP3] 20110401-02-AMessOfThings2.mp3 -> 20110401-ATinkle-02-AMessOfThings2.mp3
+    8 [Joint MP3s] 20110401-01-AMessOfThings1.mp3 -> 20110401-ATinkle-01-AMessOfThings1.mp3
+    9 [Joint MP3s] 20110401-02-AMessOfThings2.mp3 -> 20110401-ATinkle-02-AMessOfThings2.mp3
+=====Done=====20110402-APKahaneShulman    10 [Stereo 96] 20110402-01-12VariationsMaccabeus.wav -> 20110402-APKahaneShulman-01-12VariationsMaccabeus.wav
+    11 [Stereo 96] 20110402-02-SonataFMajorNo1.wav -> 20110402-APKahaneShulman-02-SonataFMajorNo1.wav
+    12 [Stereo 96] 20110402-03-SonataGMinorNo2.wav -> 20110402-APKahaneShulman-03-SonataGMinorNo2.wav
+    13 [Stereo 96] 20110402-04-12VariationsWeibchen.wav -> 20110402-APKahaneShulman-04-12VariationsWeibchen.wav
+    14 [MP3] 20110402-01-12VariationsMaccabeus.mp3 -> 20110402-APKahaneShulman-01-12VariationsMaccabeus.mp3
+    15 [MP3] 20110402-02-SonataFMajorNo1.mp3 -> 20110402-APKahaneShulman-02-SonataFMajorNo1.mp3
+    16 [MP3] 20110402-03-SonataGMinorNo2.mp3 -> 20110402-APKahaneShulman-03-SonataGMinorNo2.mp3
+    17 [MP3] 20110402-04-12VariationsWeibchen.mp3 -> 20110402-APKahaneShulman-04-12VariationsWeibchen.mp3
+    18 [Joint MP3s] 20110402-01-12VariationsMaccabeus.mp3 -> 20110402-APKahaneShulman-01-12VariationsMaccabeus.mp3
+    19 [Joint MP3s] 20110402-02-SonataFMajorNo1.mp3 -> 20110402-APKahaneShulman-02-SonataFMajorNo1.mp3
+    20 [Joint MP3s] 20110402-03-SonataGMinorNo2.mp3 -> 20110402-APKahaneShulman-03-SonataGMinorNo2.mp3
+    21 [Joint MP3s] 20110402-04-12VariationsWeibchen.mp3 -> 20110402-APKahaneShulman-04-12VariationsWeibchen.mp3
+=====Done=====20110403-APKahaneShulman    22 [Stereo 96] 20110403-01-7VariationsMannern.wav -> 20110403-APKahaneShulman-01-7VariationsMannern.wav
+    23 [Stereo 96] 20110403-02-SonataAMajor.wav -> 20110403-APKahaneShulman-02-SonataAMajor.wav
+    24 [Stereo 96] 20110403-03-SonataCMajorNo1.wav -> 20110403-APKahaneShulman-03-SonataCMajorNo1.wav
+    25 [Stereo 96] 20110403-04-SonataDMajorNo2.wav -> 20110403-APKahaneShulman-04-SonataDMajorNo2.wav
+    26 [MP3] 20110403-01-7VariationsMannern.mp3 -> 20110403-APKahaneShulman-01-7VariationsMannern.mp3
+    27 [MP3] 20110403-02-SonataAMajor.mp3 -> 20110403-APKahaneShulman-02-SonataAMajor.mp3
+    28 [MP3] 20110403-03-SonataCMajorNo1.mp3 -> 20110403-APKahaneShulman-03-SonataCMajorNo1.mp3
+    29 [MP3] 20110403-04-SonataDMajorNo2.mp3 -> 20110403-APKahaneShulman-04-SonataDMajorNo2.mp3
+    30 [Joint MP3s] 20110403-01-7VariationsMannern.mp3 -> 20110403-APKahaneShulman-01-7VariationsMannern.mp3
+    31 [Joint MP3s] 20110403-02-SonataAMajor.mp3 -> 20110403-APKahaneShulman-02-SonataAMajor.mp3
+    32 [Joint MP3s] 20110403-03-SonataCMajorNo1.mp3 -> 20110403-APKahaneShulman-03-SonataCMajorNo1.mp3
+    33 [Joint MP3s] 20110403-04-SonataDMajorNo2.mp3 -> 20110403-APKahaneShulman-04-SonataDMajorNo2.mp3
+=====Done=====20110404-1stMonApr    34 [Stereo 96] 20110404-01-TroisSonneries.wav -> 20110404-1stMonApr-01-TroisSonneries.wav
+    35 [Stereo 96] 20110404-02-BalladJeSuiAusSi.wav -> 20110404-1stMonApr-02-BalladJeSuiAusSi.wav
+    36 [Stereo 96] 20110404-03-PavaneInfante.wav -> 20110404-1stMonApr-03-PavaneInfante.wav
+    37 [Stereo 96] 20110404-04-BalladHonte.wav -> 20110404-1stMonApr-04-BalladHonte.wav
+    38 [Stereo 96] 20110404-05-PreludeDMinor.wav -> 20110404-1stMonApr-05-PreludeDMinor.wav
+    39 [Stereo 96] 20110404-06-BalladPloures.wav -> 20110404-1stMonApr-06-BalladPloures.wav
+    40 [Stereo 96] 20110404-07-TroisSonneries2.wav -> 20110404-1stMonApr-07-TroisSonneries2.wav
+    41 [Stereo 96] 20110404-08-BalladBiaute.wav -> 20110404-1stMonApr-08-BalladBiaute.wav
+    42 [Stereo 96] 20110404-09-PavaneF#Minor.wav -> 20110404-1stMonApr-09-PavaneF#Minor.wav
+    43 [Stereo 96] 20110404-10-BalladMesEsperis.wav -> 20110404-1stMonApr-10-BalladMesEsperis.wav
+    44 [Stereo 96] 20110404-11-TroisSonneries3.wav -> 20110404-1stMonApr-11-TroisSonneries3.wav
+    45 [Stereo 96] 20110404-12-BalladSePourCe.wav -> 20110404-1stMonApr-12-BalladSePourCe.wav
+    46 [MP3] 20110404-01-TroisSonneries.mp3 -> 20110404-1stMonApr-01-TroisSonneries.mp3
+    47 [MP3] 20110404-02-BalladJeSuiAusSi.mp3 -> 20110404-1stMonApr-02-BalladJeSuiAusSi.mp3
+    48 [MP3] 20110404-03-PavaneInfante.mp3 -> 20110404-1stMonApr-03-PavaneInfante.mp3
+    49 [MP3] 20110404-04-BalladHonte.mp3 -> 20110404-1stMonApr-04-BalladHonte.mp3
+    50 [MP3] 20110404-05-PreludeDMinor.mp3 -> 20110404-1stMonApr-05-PreludeDMinor.mp3
+    51 [MP3] 20110404-06-BalladPloures.mp3 -> 20110404-1stMonApr-06-BalladPloures.mp3
+    52 [MP3] 20110404-07-TroisSonneries2.mp3 -> 20110404-1stMonApr-07-TroisSonneries2.mp3
+    53 [MP3] 20110404-08-BalladBiaute.mp3 -> 20110404-1stMonApr-08-BalladBiaute.mp3
+    54 [MP3] 20110404-09-PavaneF#Minor.mp3 -> 20110404-1stMonApr-09-PavaneF#Minor.mp3
+    55 [MP3] 20110404-10-BalladMesEsperis.mp3 -> 20110404-1stMonApr-10-BalladMesEsperis.mp3
+    56 [MP3] 20110404-11-TroisSonneries3.mp3 -> 20110404-1stMonApr-11-TroisSonneries3.mp3
+    57 [MP3] 20110404-12-BalladSePourCe.mp3 -> 20110404-1stMonApr-12-BalladSePourCe.mp3
+    58 [Joint MP3s] 20110404-01-TroisSonneries.mp3 -> 20110404-1stMonApr-01-TroisSonneries.mp3
+    59 [Joint MP3s] 20110404-02-BalladJeSuiAusSi.mp3 -> 20110404-1stMonApr-02-BalladJeSuiAusSi.mp3
+    60 [Joint MP3s] 20110404-03-PavaneInfante.mp3 -> 20110404-1stMonApr-03-PavaneInfante.mp3
+    61 [Joint MP3s] 20110404-04-BalladHonte.mp3 -> 20110404-1stMonApr-04-BalladHonte.mp3
+    62 [Joint MP3s] 20110404-05-PreludeDMinor.mp3 -> 20110404-1stMonApr-05-PreludeDMinor.mp3
+    63 [Joint MP3s] 20110404-06-BalladPloures.mp3 -> 20110404-1stMonApr-06-BalladPloures.mp3
+    64 [Joint MP3s] 20110404-07-TroisSonneries2.mp3 -> 20110404-1stMonApr-07-TroisSonneries2.mp3
+    65 [Joint MP3s] 20110404-08-BalladBiaute.mp3 -> 20110404-1stMonApr-08-BalladBiaute.mp3
+    66 [Joint MP3s] 20110404-09-PavaneF#Minor.mp3 -> 20110404-1stMonApr-09-PavaneF#Minor.mp3
+    67 [Joint MP3s] 20110404-10-BalladMesEsperis.mp3 -> 20110404-1stMonApr-10-BalladMesEsperis.mp3
+    68 [Joint MP3s] 20110404-11-TroisSonneries3.mp3 -> 20110404-1stMonApr-11-TroisSonneries3.mp3
+    69 [Joint MP3s] 20110404-12-BalladSePourCe.mp3 -> 20110404-1stMonApr-12-BalladSePourCe.mp3
+=====Done=====20110406-JWeinstein=====Done=====20110407-MuirMusical=====Done=====20110408-SWorthington    70 [Stereo 96] 20110408-01-Kurtag.wav -> 20110408-SWorthington-01-Kurtag.wav
+    71 [Stereo 96] 20110408-02-Sciarrino.wav -> 20110408-SWorthington-02-Sciarrino.wav
+    72 [Stereo 96] 20110408-03-Xenakis.wav -> 20110408-SWorthington-03-Xenakis.wav
+    73 [Stereo 96] 20110408-04-Worthington.wav -> 20110408-SWorthington-04-Worthington.wav
+    74 [MP3] 20110408-01-Kurtag.mp3 -> 20110408-SWorthington-01-Kurtag.mp3
+    75 [MP3] 20110408-02-Sciarrino.mp3 -> 20110408-SWorthington-02-Sciarrino.mp3
+    76 [MP3] 20110408-03-Xenakis.mp3 -> 20110408-SWorthington-03-Xenakis.mp3
+    77 [MP3] 20110408-04-Worthington.mp3 -> 20110408-SWorthington-04-Worthington.mp3
+    78 [Joint MP3s] 20110408-01-Kurtag.mp3 -> 20110408-SWorthington-01-Kurtag.mp3
+    79 [Joint MP3s] 20110408-02-Sciarrino.mp3 -> 20110408-SWorthington-02-Sciarrino.mp3
+    80 [Joint MP3s] 20110408-03-Xenakis.mp3 -> 20110408-SWorthington-03-Xenakis.mp3
+    81 [Joint MP3s] 20110408-04-Worthington.mp3 -> 20110408-SWorthington-04-Worthington.mp3
+=====Done=====20110409-BMacAdamSomer    82 [Stereo 96] 20110409-01-BartokSonata.wav -> 20110409-BMacAdamSomer-01-BartokSonata.wav
+    83 [Stereo 96] 20110409-02-Pierzak4Songs.wav -> 20110409-BMacAdamSomer-02-Pierzak4Songs.wav
+    84 [Stereo 96] 20110409-03-SequenzaVIII.wav -> 20110409-BMacAdamSomer-03-SequenzaVIII.wav
+    85 [Stereo 96] 20110409-04-PartitaNo3EMaj.wav -> 20110409-BMacAdamSomer-04-PartitaNo3EMaj.wav
+    86 [MP3] 20110409-01-BartokSonata.mp3 -> 20110409-BMacAdamSomer-01-BartokSonata.mp3
+    87 [MP3] 20110409-02-Pierzak4Songs.mp3 -> 20110409-BMacAdamSomer-02-Pierzak4Songs.mp3
+    88 [MP3] 20110409-03-SequenzaVIII.mp3 -> 20110409-BMacAdamSomer-03-SequenzaVIII.mp3
+    89 [MP3] 20110409-04-PartitaNo3EMaj.mp3 -> 20110409-BMacAdamSomer-04-PartitaNo3EMaj.mp3
+    90 [Joint MP3s] 20110409-01-BartokSonata.mp3 -> 20110409-BMacAdamSomer-01-BartokSonata.mp3
+    91 [Joint MP3s] 20110409-02-Pierzak4Songs.mp3 -> 20110409-BMacAdamSomer-02-Pierzak4Songs.mp3
+    92 [Joint MP3s] 20110409-03-SequenzaVIII.mp3 -> 20110409-BMacAdamSomer-03-SequenzaVIII.mp3
+    93 [Joint MP3s] 20110409-04-PartitaNo3EMaj.mp3 -> 20110409-BMacAdamSomer-04-PartitaNo3EMaj.mp3
+=====Done=====20110410-Soiree3    94 [Stereo 96] 20110410-01-LittleSuite.wav -> 20110410-Soiree3-01-LittleSuite.wav
+    95 [Stereo 96] 20110410-02-SonataForThree.wav -> 20110410-Soiree3-02-SonataForThree.wav
+    96 [Stereo 96] 20110410-03-ChansonPerp.wav -> 20110410-Soiree3-03-ChansonPerp.wav
+    97 [Stereo 96] 20110410-04-Trio.wav -> 20110410-Soiree3-04-Trio.wav
+    98 [Stereo 96] 20110410-05-PianoQuartet.wav -> 20110410-Soiree3-05-PianoQuartet.wav
+    99 [MP3] 20110410-01-LittleSuite.mp3 -> 20110410-Soiree3-01-LittleSuite.mp3
+    100 [MP3] 20110410-02-SonataForThree.mp3 -> 20110410-Soiree3-02-SonataForThree.mp3
+    101 [MP3] 20110410-03-ChansonPerp.mp3 -> 20110410-Soiree3-03-ChansonPerp.mp3
+    102 [MP3] 20110410-04-Trio.mp3 -> 20110410-Soiree3-04-Trio.mp3
+    103 [MP3] 20110410-05-PianoQuartet.mp3 -> 20110410-Soiree3-05-PianoQuartet.mp3
+    104 [Joint MP3s] 20110410-01-LittleSuite.mp3 -> 20110410-Soiree3-01-LittleSuite.mp3
+    105 [Joint MP3s] 20110410-02-SonataForThree.mp3 -> 20110410-Soiree3-02-SonataForThree.mp3
+    106 [Joint MP3s] 20110410-03-ChansonPerp.mp3 -> 20110410-Soiree3-03-ChansonPerp.mp3
+    107 [Joint MP3s] 20110410-04-Trio.mp3 -> 20110410-Soiree3-04-Trio.mp3
+    108 [Joint MP3s] 20110410-05-PianoQuartet.mp3 -> 20110410-Soiree3-05-PianoQuartet.mp3
+=====Done=====20110411-CamLu6    109 [Stereo 96] 20110411-01-PianoTrioEFlat.wav -> 20110411-CamLu6-01-PianoTrioEFlat.wav
+    110 [Stereo 96] 20110411-02-StringQuartet.wav -> 20110411-CamLu6-02-StringQuartet.wav
+    111 [Stereo 96] 20110411-03-QuintetAMajor.wav -> 20110411-CamLu6-03-QuintetAMajor.wav
+    112 [MP3] 20110411-01-PianoTrioEFlat.mp3 -> 20110411-CamLu6-01-PianoTrioEFlat.mp3
+    113 [MP3] 20110411-02-StringQuartet.mp3 -> 20110411-CamLu6-02-StringQuartet.mp3
+    114 [MP3] 20110411-03-QuintetAMajor.mp3 -> 20110411-CamLu6-03-QuintetAMajor.mp3
+    115 [Joint MP3s] 20110411-01-PianoTrioEFlat.mp3 -> 20110411-CamLu6-01-PianoTrioEFlat.mp3
+    116 [Joint MP3s] 20110411-02-StringQuartet.mp3 -> 20110411-CamLu6-02-StringQuartet.mp3
+    117 [Joint MP3s] 20110411-03-QuintetAMajor.mp3 -> 20110411-CamLu6-03-QuintetAMajor.mp3
+=====Done=====20110412-GradForum5    118 [Stereo 96] 20110412-01-reintro.wav -> 20110412-GradForum5-01-reintro.wav
+    119 [Stereo 96] 20110412-02-eric.wav -> 20110412-GradForum5-02-eric.wav
+    120 [Stereo 96] 20110412-03-failure.wav -> 20110412-GradForum5-03-failure.wav
+    121 [Stereo 96] 20110412-04-caviar.wav -> 20110412-GradForum5-04-caviar.wav
+    122 [Stereo 96] 20110412-05-mozierto.wav -> 20110412-GradForum5-05-mozierto.wav
+    123 [Stereo 96] 20110412-06-ionisation.wav -> 20110412-GradForum5-06-ionisation.wav
+    124 [Stereo 96] 20110412-07-fruitslam.wav -> 20110412-GradForum5-07-fruitslam.wav
+    125 [Stereo 96] 20110412-08-girl.wav -> 20110412-GradForum5-08-girl.wav
+Unbalanced Changes=====Done=====20110413-WED7Formalist    126 [Stereo 96] 20110413-01-Initiale.wav -> 20110413-WED7Formalist-01-Initiale.wav
+    127 [Stereo 96] 20110413-02-StringQuartet5.wav -> 20110413-WED7Formalist-02-StringQuartet5.wav
+    128 [Stereo 96] 20110413-03-tentativePast.wav -> 20110413-WED7Formalist-03-tentativePast.wav
+    129 [Stereo 96] 20110413-04-Sleepless.wav -> 20110413-WED7Formalist-04-Sleepless.wav
+    130 [MP3] 20110413-01-Initiale.mp3 -> 20110413-WED7Formalist-01-Initiale.mp3
+    131 [MP3] 20110413-02-StringQuartet5.mp3 -> 20110413-WED7Formalist-02-StringQuartet5.mp3
+    132 [MP3] 20110413-03-tentativePast.mp3 -> 20110413-WED7Formalist-03-tentativePast.mp3
+    133 [MP3] 20110413-04-Sleepless.mp3 -> 20110413-WED7Formalist-04-Sleepless.mp3
+    134 [Joint MP3s] 20110413-01-Initiale.mp3 -> 20110413-WED7Formalist-01-Initiale.mp3
+    135 [Joint MP3s] 20110413-02-StringQuartet5.mp3 -> 20110413-WED7Formalist-02-StringQuartet5.mp3
+    136 [Joint MP3s] 20110413-03-tentativePast.mp3 -> 20110413-WED7Formalist-03-tentativePast.mp3
+    137 [Joint MP3s] 20110413-04-Sleepless.mp3 -> 20110413-WED7Formalist-04-Sleepless.mp3
+=====Done=====20110414-crcSS=====Done=====20110415-APEnso    138 [Stereo 96] 20110415-01-QuartetFMinor.wav -> 20110415-APEnso-01-QuartetFMinor.wav
+    139 [Stereo 96] 20110415-02-3PiecesQuartet.wav -> 20110415-APEnso-02-3PiecesQuartet.wav
+    140 [Stereo 96] 20110415-03-5PiecesQuartet.wav -> 20110415-APEnso-03-5PiecesQuartet.wav
+    141 [Stereo 96] 20110415-04-QuartetEMinor.wav -> 20110415-APEnso-04-QuartetEMinor.wav
+    142 [Stereo 96] 20110415-05-MilleRegretz.wav -> 20110415-APEnso-05-MilleRegretz.wav
+    143 [MP3] 20110415-01-QuartetFMinor.mp3 -> 20110415-APEnso-01-QuartetFMinor.mp3
+    144 [MP3] 20110415-02-3PiecesQuartet.mp3 -> 20110415-APEnso-02-3PiecesQuartet.mp3
+    145 [MP3] 20110415-03-5PiecesQuartet.mp3 -> 20110415-APEnso-03-5PiecesQuartet.mp3
+    146 [MP3] 20110415-04-QuartetEMinor.mp3 -> 20110415-APEnso-04-QuartetEMinor.mp3
+    147 [MP3] 20110415-05-MilleRegretz.mp3 -> 20110415-APEnso-05-MilleRegretz.mp3
+    148 [Joint MP3s] 20110415-01-QuartetFMinor.mp3 -> 20110415-APEnso-01-QuartetFMinor.mp3
+    149 [Joint MP3s] 20110415-02-3PiecesQuartet.mp3 -> 20110415-APEnso-02-3PiecesQuartet.mp3
+    150 [Joint MP3s] 20110415-03-5PiecesQuartet.mp3 -> 20110415-APEnso-03-5PiecesQuartet.mp3
+    151 [Joint MP3s] 20110415-04-QuartetEMinor.mp3 -> 20110415-APEnso-04-QuartetEMinor.mp3
+    152 [Joint MP3s] 20110415-05-MilleRegretz.mp3 -> 20110415-APEnso-05-MilleRegretz.mp3
+=====Done=====20110416-KP=====Done=====20110417-KTurney=====Done=====20110419-GradForum6    153 [Stereo 96] 20110419-01-TheaterImprov.wav -> 20110419-GradForum6-01-TheaterImprov.wav
+    154 [Stereo 96] 20110419-02-Salamander.wav -> 20110419-GradForum6-02-Salamander.wav
+    155 [Stereo 96] 20110419-03-VinDiesel.wav -> 20110419-GradForum6-03-VinDiesel.wav
+    156 [Stereo 96] 20110419-04-MeatMirror.wav -> 20110419-GradForum6-04-MeatMirror.wav
+    157 [Stereo 96] 20110419-05-Aquarium.wav -> 20110419-GradForum6-05-Aquarium.wav
+Unbalanced Changes=====Done=====20110421-GradForum7    158 [Stereo 96] 20110421-00-intro.wav -> 20110421-GradForum7-00-intro.wav
+    159 [Stereo 96] 20110421-01-novara.wav -> 20110421-GradForum7-01-novara.wav
+    160 [Stereo 96] 20110421-02-aufschlag.wav -> 20110421-GradForum7-02-aufschlag.wav
+    161 [Stereo 96] 20110421-03-decisions.wav -> 20110421-GradForum7-03-decisions.wav
+    162 [Stereo 96] 20110421-04-credentials.wav -> 20110421-GradForum7-04-credentials.wav
+    163 [MP3] 20110421-00-intro.mp3 -> 20110421-GradForum7-00-intro.mp3
+    164 [MP3] 20110421-01-novara.mp3 -> 20110421-GradForum7-01-novara.mp3
+    165 [MP3] 20110421-02-aufschlag.mp3 -> 20110421-GradForum7-02-aufschlag.mp3
+    166 [MP3] 20110421-03-decisions.mp3 -> 20110421-GradForum7-03-decisions.mp3
+    167 [MP3] 20110421-04-credentials.mp3 -> 20110421-GradForum7-04-credentials.mp3
+    168 [Joint MP3s] 20110421-01-intro.mp3 -> 20110421-GradForum7-01-intro.mp3
+    169 [Joint MP3s] 20110421-01-novara.mp3 -> 20110421-GradForum7-01-novara.mp3
+    170 [Joint MP3s] 20110421-02-aufschlag.mp3 -> 20110421-GradForum7-02-aufschlag.mp3
+    171 [Joint MP3s] 20110421-03-decisions.mp3 -> 20110421-GradForum7-03-decisions.mp3
+    172 [Joint MP3s] 20110421-04-credentials.mp3 -> 20110421-GradForum7-04-credentials.mp3
+=====Done=====20110423-VSA=====Done=====20110425-curtis=====Done=====20110427-WED7Telematics    173 [Stereo 96] 20110427-01-Part1.wav -> 20110427-WED7Telematics-01-Part1.wav
+    174 [Stereo 96] 20110427-02-Part2.wav -> 20110427-WED7Telematics-02-Part2.wav
+    175 [Stereo 96] 20110427-03-Part3.wav -> 20110427-WED7Telematics-03-Part3.wav
+    176 [Stereo 96] 20110427-04-Part4.wav -> 20110427-WED7Telematics-04-Part4.wav
+    177 [MP3] 20110427-01-Part1.mp3 -> 20110427-WED7Telematics-01-Part1.mp3
+    178 [MP3] 20110427-02-Part2.mp3 -> 20110427-WED7Telematics-02-Part2.mp3
+    179 [MP3] 20110427-03-Part3.mp3 -> 20110427-WED7Telematics-03-Part3.mp3
+    180 [MP3] 20110427-04-Part4.mp3 -> 20110427-WED7Telematics-04-Part4.mp3
+    181 [Joint MP3s] 20110427-01-Part1.mp3 -> 20110427-WED7Telematics-01-Part1.mp3
+    182 [Joint MP3s] 20110427-02-Part2.mp3 -> 20110427-WED7Telematics-02-Part2.mp3
+    183 [Joint MP3s] 20110427-03-Part3.mp3 -> 20110427-WED7Telematics-03-Part3.mp3
+    184 [Joint MP3s] 20110427-04-Part4.mp3 -> 20110427-WED7Telematics-04-Part4.mp3
+=====Done=====20110428-CTravolacci2=====Done=====20110429-SAston    185 [Stereo 96] 20110429-01-PoemesPourMi.wav -> 20110429-SAston-01-PoemesPourMi.wav
+    186 [Stereo 96] 20110429-02-McCallumSongs.wav -> 20110429-SAston-02-McCallumSongs.wav
+    187 [Stereo 96] 20110429-03-FunfOrchLieder.wav -> 20110429-SAston-03-FunfOrchLieder.wav
+    188 [Stereo 96] 20110429-04-LiedDerLulu.wav -> 20110429-SAston-04-LiedDerLulu.wav
+    189 [Stereo 96] 20110429-05-SequenzaIII.wav -> 20110429-SAston-05-SequenzaIII.wav
+    190 [MP3] 20110429-01-PoemesPourMi.mp3 -> 20110429-SAston-01-PoemesPourMi.mp3
+    191 [MP3] 20110429-02-McCallumSongs.mp3 -> 20110429-SAston-02-McCallumSongs.mp3
+    192 [MP3] 20110429-03-FunfOrchLieder.mp3 -> 20110429-SAston-03-FunfOrchLieder.mp3
+    193 [MP3] 20110429-04-LiedDerLulu.mp3 -> 20110429-SAston-04-LiedDerLulu.mp3
+    194 [MP3] 20110429-05-SequenzaIII.mp3 -> 20110429-SAston-05-SequenzaIII.mp3
+    195 [Joint MP3s] 20110429-01-PoemesPourMi.mp3 -> 20110429-SAston-01-PoemesPourMi.mp3
+    196 [Joint MP3s] 20110429-02-McCallumSongs.mp3 -> 20110429-SAston-02-McCallumSongs.mp3
+    197 [Joint MP3s] 20110429-03-FunfOrchLieder.mp3 -> 20110429-SAston-03-FunfOrchLieder.mp3
+    198 [Joint MP3s] 20110429-04-LiedDerLulu.mp3 -> 20110429-SAston-04-LiedDerLulu.mp3
+    199 [Joint MP3s] 20110429-05-SequenzaIII.mp3 -> 20110429-SAston-05-SequenzaIII.mp3
+=====Done=====20110430-LJSC10=====Done=====20110501-ICarroll=====Done=====20110501-LJSC11=====Done=====20110502-1stMonMay    200 [Stereo 96] 20110502-01-Comma.wav -> 20110502-1stMonMay-01-Comma.wav
+    201 [Stereo 96] 20110502-02-Lotofagos.wav -> 20110502-1stMonMay-02-Lotofagos.wav
+    202 [Stereo 96] 20110502-03-LapisLazuli.wav -> 20110502-1stMonMay-03-LapisLazuli.wav
+    203 [Stereo 96] 20110502-04-PecaViola.wav -> 20110502-1stMonMay-04-PecaViola.wav
+    204 [Stereo 96] 20110502-05-SolarLuminosity.wav -> 20110502-1stMonMay-05-SolarLuminosity.wav
+    205 [MP3] 20110502-01-Comma.mp3 -> 20110502-1stMonMay-01-Comma.mp3
+    206 [MP3] 20110502-02-Lotofagos.mp3 -> 20110502-1stMonMay-02-Lotofagos.mp3
+    207 [MP3] 20110502-03-LapisLazuli.mp3 -> 20110502-1stMonMay-03-LapisLazuli.mp3
+    208 [MP3] 20110502-04-PecaViola.mp3 -> 20110502-1stMonMay-04-PecaViola.mp3
+    209 [MP3] 20110502-05-SolarLuminosity.mp3 -> 20110502-1stMonMay-05-SolarLuminosity.mp3
+    210 [Joint MP3s] 20110502-01-Comma.mp3 -> 20110502-1stMonMay-01-Comma.mp3
+    211 [Joint MP3s] 20110502-02-Lotofagos.mp3 -> 20110502-1stMonMay-02-Lotofagos.mp3
+    212 [Joint MP3s] 20110502-03-LapisLazuli.mp3 -> 20110502-1stMonMay-03-LapisLazuli.mp3
+    213 [Joint MP3s] 20110502-04-PecaViola.mp3 -> 20110502-1stMonMay-04-PecaViola.mp3
+    214 [Joint MP3s] 20110502-05-SolarLuminosity.mp3 -> 20110502-1stMonMay-05-SolarLuminosity.mp3
+=====Done=====20110505-JGWilliams    215 [Stereo 96] 20110505-01-Hinterlands.wav -> 20110505-JGWilliams-01-Hinterlands.wav
+    216 [Stereo 96] 20110505-02-WhatYouSing.wav -> 20110505-JGWilliams-02-WhatYouSing.wav
+    217 [MP3] 20110505-01-Hinterlands.mp3 -> 20110505-JGWilliams-01-Hinterlands.mp3
+    218 [MP3] 20110505-02-WhatYouSing.mp3 -> 20110505-JGWilliams-02-WhatYouSing.mp3
+    219 [Joint MP3s] 20110505-01-Hinterlands.mp3 -> 20110505-JGWilliams-01-Hinterlands.mp3
+    220 [Joint MP3s] 20110505-02-WhatYouSing.mp3 -> 20110505-JGWilliams-02-WhatYouSing.mp3
+=====Done=====20110506-Spotlight=====Done=====20110506-Young=====Done=====20110507-CompHonor    221 [Stereo 96] 20110507-01-duet.wav -> 20110507-CompHonor-01-duet.wav
+    222 [Stereo 96] 20110507-02-etude1.wav -> 20110507-CompHonor-02-etude1.wav
+    223 [Stereo 96] 20110507-03-vinculum.wav -> 20110507-CompHonor-03-vinculum.wav
+    224 [Stereo 96] 20110507-04-portioned.wav -> 20110507-CompHonor-04-portioned.wav
+    225 [Stereo 96] 20110507-05-safe.wav -> 20110507-CompHonor-05-safe.wav
+    226 [Stereo 96] 20110507-06-splintered.wav -> 20110507-CompHonor-06-splintered.wav
+    227 [Stereo 96] 20110507-07-rhapsody2.wav -> 20110507-CompHonor-07-rhapsody2.wav
+    228 [Stereo 96] 20110507-08-sailing.wav -> 20110507-CompHonor-08-sailing.wav
+    229 [MP3] 20110507-01-duet.mp3 -> 20110507-CompHonor-01-duet.mp3
+    230 [MP3] 20110507-02-etude1.mp3 -> 20110507-CompHonor-02-etude1.mp3
+    231 [MP3] 20110507-03-vinculum.mp3 -> 20110507-CompHonor-03-vinculum.mp3
+    232 [MP3] 20110507-04-portioned.mp3 -> 20110507-CompHonor-04-portioned.mp3
+    233 [MP3] 20110507-05-safe.mp3 -> 20110507-CompHonor-05-safe.mp3
+    234 [MP3] 20110507-06-splintered.mp3 -> 20110507-CompHonor-06-splintered.mp3
+    235 [MP3] 20110507-07-rhapsody2.mp3 -> 20110507-CompHonor-07-rhapsody2.mp3
+    236 [MP3] 20110507-08-sailing.mp3 -> 20110507-CompHonor-08-sailing.mp3
+    237 [Joint MP3s] 20110507-01-duet.mp3 -> 20110507-CompHonor-01-duet.mp3
+    238 [Joint MP3s] 20110507-02-etude1.mp3 -> 20110507-CompHonor-02-etude1.mp3
+    239 [Joint MP3s] 20110507-03-vinculum.mp3 -> 20110507-CompHonor-03-vinculum.mp3
+    240 [Joint MP3s] 20110507-04-portioned.mp3 -> 20110507-CompHonor-04-portioned.mp3
+    241 [Joint MP3s] 20110507-05-safe.mp3 -> 20110507-CompHonor-05-safe.mp3
+    242 [Joint MP3s] 20110507-06-splintered.mp3 -> 20110507-CompHonor-06-splintered.mp3
+    243 [Joint MP3s] 20110507-07-rhapsody2.mp3 -> 20110507-CompHonor-07-rhapsody2.mp3
+    244 [Joint MP3s] 20110507-08-sailing.mp3 -> 20110507-CompHonor-08-sailing.mp3
+=====Done=====20110511-Harpsichord    245 [Stereo 96] 20110511-01-Tombeau.wav -> 20110511-Harpsichord-01-Tombeau.wav
+    246 [Stereo 96] 20110511-02-BachStMatthew.wav -> 20110511-Harpsichord-02-BachStMatthew.wav
+    247 [Stereo 96] 20110511-03-Mysterieuses.wav -> 20110511-Harpsichord-03-Mysterieuses.wav
+    248 [Stereo 96] 20110511-04-Blavet.wav -> 20110511-Harpsichord-04-Blavet.wav
+    249 [Stereo 96] 20110511-05-LOrfeo.wav -> 20110511-Harpsichord-05-LOrfeo.wav
+    250 [Stereo 96] 20110511-06-PreludeandCoucou.wav -> 20110511-Harpsichord-06-PreludeandCoucou.wav
+    251 [Stereo 96] 20110511-07-TellemannSntaE.wav -> 20110511-Harpsichord-07-TellemannSntaE.wav
+    252 [Stereo 96] 20110511-08-ToccataG916.wav -> 20110511-Harpsichord-08-ToccataG916.wav
+    253 [Stereo 96] 20110511-09-DidoActI.wav -> 20110511-Harpsichord-09-DidoActI.wav
+    254 [MP3] 20110511-01-Tombeau.mp3 -> 20110511-Harpsichord-01-Tombeau.mp3
+    255 [MP3] 20110511-02-BachStMatthew.mp3 -> 20110511-Harpsichord-02-BachStMatthew.mp3
+    256 [MP3] 20110511-03-Mysterieuses.mp3 -> 20110511-Harpsichord-03-Mysterieuses.mp3
+    257 [MP3] 20110511-04-Blavet.mp3 -> 20110511-Harpsichord-04-Blavet.mp3
+    258 [MP3] 20110511-05-LOrfeo.mp3 -> 20110511-Harpsichord-05-LOrfeo.mp3
+    259 [MP3] 20110511-06-PreludeandCoucou.mp3 -> 20110511-Harpsichord-06-PreludeandCoucou.mp3
+    260 [MP3] 20110511-07-TellemannSntaE.mp3 -> 20110511-Harpsichord-07-TellemannSntaE.mp3
+    261 [MP3] 20110511-08-ToccataG916.mp3 -> 20110511-Harpsichord-08-ToccataG916.mp3
+    262 [MP3] 20110511-09-DidoActI.mp3 -> 20110511-Harpsichord-09-DidoActI.mp3
+    263 [Joint MP3s] 20110511-01-Tombeau.mp3 -> 20110511-Harpsichord-01-Tombeau.mp3
+    264 [Joint MP3s] 20110511-02-BachStMatthew.mp3 -> 20110511-Harpsichord-02-BachStMatthew.mp3
+    265 [Joint MP3s] 20110511-03-Mysterieuses.mp3 -> 20110511-Harpsichord-03-Mysterieuses.mp3
+    266 [Joint MP3s] 20110511-04-Blavet.mp3 -> 20110511-Harpsichord-04-Blavet.mp3
+    267 [Joint MP3s] 20110511-05-LOrfeo.mp3 -> 20110511-Harpsichord-05-LOrfeo.mp3
+    268 [Joint MP3s] 20110511-06-PreludeandCoucou.mp3 -> 20110511-Harpsichord-06-PreludeandCoucou.mp3
+    269 [Joint MP3s] 20110511-07-TellemannSntaE.mp3 -> 20110511-Harpsichord-07-TellemannSntaE.mp3
+    270 [Joint MP3s] 20110511-08-ToccataG916.mp3 -> 20110511-Harpsichord-08-ToccataG916.mp3
+    271 [Joint MP3s] 20110511-09-DidoActI.mp3 -> 20110511-Harpsichord-09-DidoActI.mp3
+=====Done=====20110512-CMcAllister    272 [Stereo 96] 20110512-01-Citlatepetl.wav -> 20110512-CMcAllister-01-Citlatepetl.wav
+    273 [Stereo 96] 20110512-02-21Grupos.wav -> 20110512-CMcAllister-02-21Grupos.wav
+    274 [Stereo 96] 20110512-03-Carmina.wav -> 20110512-CMcAllister-03-Carmina.wav
+    275 [Stereo 96] 20110512-04-Aeneas.wav -> 20110512-CMcAllister-04-Aeneas.wav
+    276 [Stereo 96] 20110512-05-Decameron.wav -> 20110512-CMcAllister-05-Decameron.wav
+    277 [MP3] 20110512-01-Citlatepetl.mp3 -> 20110512-CMcAllister-01-Citlatepetl.mp3
+    278 [MP3] 20110512-02-21Grupos.mp3 -> 20110512-CMcAllister-02-21Grupos.mp3
+    279 [MP3] 20110512-03-Carmina.mp3 -> 20110512-CMcAllister-03-Carmina.mp3
+    280 [MP3] 20110512-04-Aeneas.mp3 -> 20110512-CMcAllister-04-Aeneas.mp3
+    281 [MP3] 20110512-05-Decameron.mp3 -> 20110512-CMcAllister-05-Decameron.mp3
+    282 [Joint MP3s] 20110512-01-Citlatepetl.mp3 -> 20110512-CMcAllister-01-Citlatepetl.mp3
+    283 [Joint MP3s] 20110512-02-21Grupos.mp3 -> 20110512-CMcAllister-02-21Grupos.mp3
+    284 [Joint MP3s] 20110512-03-Carmina.mp3 -> 20110512-CMcAllister-03-Carmina.mp3
+    285 [Joint MP3s] 20110512-04-Aeneas.mp3 -> 20110512-CMcAllister-04-Aeneas.mp3
+    286 [Joint MP3s] 20110512-05-Decameron.mp3 -> 20110512-CMcAllister-05-Decameron.mp3
+=====Done=====20110514-PerfHonors    287 [Stereo 96] 20110514-01-Journey.wav -> 20110514-PerfHonors-01-Journey.wav
+    288 [Stereo 96] 20110514-02-BoaPetite.wav -> 20110514-PerfHonors-02-BoaPetite.wav
+    289 [Stereo 96] 20110514-03-Luminosity.wav -> 20110514-PerfHonors-03-Luminosity.wav
+    290 [Stereo 96] 20110514-04-PortraitAshwin.wav -> 20110514-PerfHonors-04-PortraitAshwin.wav
+    291 [Stereo 96] 20110514-05-BounbeBaby.wav -> 20110514-PerfHonors-05-BounbeBaby.wav
+    292 [MP3] 20110514-01-Journey.mp3 -> 20110514-PerfHonors-01-Journey.mp3
+    293 [MP3] 20110514-02-BoaPetite.mp3 -> 20110514-PerfHonors-02-BoaPetite.mp3
+    294 [MP3] 20110514-03-Luminosity.mp3 -> 20110514-PerfHonors-03-Luminosity.mp3
+    295 [MP3] 20110514-04-PortraitAshwin.mp3 -> 20110514-PerfHonors-04-PortraitAshwin.mp3
+    296 [MP3] 20110514-05-BounbeBaby.mp3 -> 20110514-PerfHonors-05-BounbeBaby.mp3
+    297 [Joint MP3s] 20110514-01-Journey.mp3 -> 20110514-PerfHonors-01-Journey.mp3
+    298 [Joint MP3s] 20110514-02-BoaPetite.mp3 -> 20110514-PerfHonors-02-BoaPetite.mp3
+    299 [Joint MP3s] 20110514-03-Luminosity.mp3 -> 20110514-PerfHonors-03-Luminosity.mp3
+    300 [Joint MP3s] 20110514-04-PortraitAshwin.mp3 -> 20110514-PerfHonors-04-PortraitAshwin.mp3
+    301 [Joint MP3s] 20110514-05-BounbeBaby.mp3 -> 20110514-PerfHonors-05-BounbeBaby.mp3
+=====Done=====20110515-NGuy    302 [Stereo 96] 20110515-01-OnceUponIsland.wav -> 20110515-NGuy-01-OnceUponIsland.wav
+    303 [MP3] 20110515-01-OnceUponIsland.mp3 -> 20110515-NGuy-01-OnceUponIsland.mp3
+    304 [Joint MP3s] 20110515-01-OnceUponIsland.mp3 -> 20110515-NGuy-01-OnceUponIsland.mp3
+=====Done=====20110516-CamLu7    305 [Stereo 96] 20110516-00-intro.wav -> 20110516-CamLu7-00-intro.wav
+    306 [Stereo 96] 20110516-01-art.wav -> 20110516-CamLu7-01-art.wav
+    307 [Stereo 96] 20110516-02-quintet.wav -> 20110516-CamLu7-02-quintet.wav
+    308 [Stereo 96] 20110516-03-piano.wav -> 20110516-CamLu7-03-piano.wav
+    309 [Stereo 96] 20110516-04-encore.wav -> 20110516-CamLu7-04-encore.wav
+    310 [MP3] 20110516-00-intro.mp3 -> 20110516-CamLu7-00-intro.mp3
+    311 [MP3] 20110516-01-art.mp3 -> 20110516-CamLu7-01-art.mp3
+    312 [MP3] 20110516-02-quintet.mp3 -> 20110516-CamLu7-02-quintet.mp3
+    313 [MP3] 20110516-03-piano.mp3 -> 20110516-CamLu7-03-piano.mp3
+    314 [MP3] 20110516-04-encore.mp3 -> 20110516-CamLu7-04-encore.mp3
+    315 [Joint MP3s] 20110516-00-intro.mp3 -> 20110516-CamLu7-00-intro.mp3
+    316 [Joint MP3s] 20110516-01-art.mp3 -> 20110516-CamLu7-01-art.mp3
+    317 [Joint MP3s] 20110516-02-quintet.mp3 -> 20110516-CamLu7-02-quintet.mp3
+    318 [Joint MP3s] 20110516-03-piano.mp3 -> 20110516-CamLu7-03-piano.mp3
+    319 [Joint MP3s] 20110516-04-encore.mp3 -> 20110516-CamLu7-04-encore.mp3
+=====Done=====20110518-WED7Opera1    320 [Stereo 96] 20110518-01-FranzKline.wav -> 20110518-WED7Opera1-01-FranzKline.wav
+    321 [Stereo 96] 20110518-02-ThreeSongs.wav -> 20110518-WED7Opera1-02-ThreeSongs.wav
+    322 [Stereo 96] 20110518-03-Gymnopedies.wav -> 20110518-WED7Opera1-03-Gymnopedies.wav
+    323 [Stereo 96] 20110518-04-Socrate.wav -> 20110518-WED7Opera1-04-Socrate.wav
+    324 [Stereo 96] 20110518-05-MadameDied.wav -> 20110518-WED7Opera1-05-MadameDied.wav
+    325 [MP3] 20110518-01-FranzKline.mp3 -> 20110518-WED7Opera1-01-FranzKline.mp3
+    326 [MP3] 20110518-02-ThreeSongs.mp3 -> 20110518-WED7Opera1-02-ThreeSongs.mp3
+    327 [MP3] 20110518-03-Gymnopedies.mp3 -> 20110518-WED7Opera1-03-Gymnopedies.mp3
+    328 [MP3] 20110518-04-Socrate.mp3 -> 20110518-WED7Opera1-04-Socrate.mp3
+    329 [MP3] 20110518-05-MadameDied.mp3 -> 20110518-WED7Opera1-05-MadameDied.mp3
+    330 [Joint MP3s] 20110518-01-FranzKline.mp3 -> 20110518-WED7Opera1-01-FranzKline.mp3
+    331 [Joint MP3s] 20110518-02-ThreeSongs.mp3 -> 20110518-WED7Opera1-02-ThreeSongs.mp3
+    332 [Joint MP3s] 20110518-03-Gymnopedies.mp3 -> 20110518-WED7Opera1-03-Gymnopedies.mp3
+    333 [Joint MP3s] 20110518-04-Socrate.mp3 -> 20110518-WED7Opera1-04-Socrate.mp3
+    334 [Joint MP3s] 20110518-05-MadameDied.mp3 -> 20110518-WED7Opera1-05-MadameDied.mp3
+=====Done=====20110520-WED7Opera2    335 [Stereo 96] 20110520-01-FranzKline.wav -> 20110520-WED7Opera2-01-FranzKline.wav
+    336 [Stereo 96] 20110520-02-ThreeSongs.wav -> 20110520-WED7Opera2-02-ThreeSongs.wav
+    337 [Stereo 96] 20110520-03-Gymnopedies.wav -> 20110520-WED7Opera2-03-Gymnopedies.wav
+    338 [Stereo 96] 20110520-04-Socrate.wav -> 20110520-WED7Opera2-04-Socrate.wav
+    339 [Stereo 96] 20110520-05-MadameDied.wav -> 20110520-WED7Opera2-05-MadameDied.wav
+    340 [MP3] 20110520-01-FranzKline.mp3 -> 20110520-WED7Opera2-01-FranzKline.mp3
+    341 [MP3] 20110520-02-ThreeSongs.mp3 -> 20110520-WED7Opera2-02-ThreeSongs.mp3
+    342 [MP3] 20110520-03-Gymnopedies.mp3 -> 20110520-WED7Opera2-03-Gymnopedies.mp3
+    343 [MP3] 20110520-04-Socrate.mp3 -> 20110520-WED7Opera2-04-Socrate.mp3
+    344 [MP3] 20110520-05-MadameDied.mp3 -> 20110520-WED7Opera2-05-MadameDied.mp3
+    345 [Joint MP3s] 20110520-01-FranzKline.mp3 -> 20110520-WED7Opera2-01-FranzKline.mp3
+    346 [Joint MP3s] 20110520-02-ThreeSongs.mp3 -> 20110520-WED7Opera2-02-ThreeSongs.mp3
+    347 [Joint MP3s] 20110520-03-Gymnopedies.mp3 -> 20110520-WED7Opera2-03-Gymnopedies.mp3
+    348 [Joint MP3s] 20110520-04-Socrate.mp3 -> 20110520-WED7Opera2-04-Socrate.mp3
+    349 [Joint MP3s] 20110520-05-MadameDied.mp3 -> 20110520-WED7Opera2-05-MadameDied.mp3
+=====Done=====20110521-WED7Opera3    350 [Stereo 96] 20110521-01-FranzKline.wav -> 20110521-WED7Opera3-01-FranzKline.wav
+    351 [Stereo 96] 20110521-02-ThreeSongs.wav -> 20110521-WED7Opera3-02-ThreeSongs.wav
+    352 [Stereo 96] 20110521-03-Gymnopedies.wav -> 20110521-WED7Opera3-03-Gymnopedies.wav
+    353 [Stereo 96] 20110521-04-Socrate.wav -> 20110521-WED7Opera3-04-Socrate.wav
+    354 [Stereo 96] 20110521-05-MadameDied.wav -> 20110521-WED7Opera3-05-MadameDied.wav
+    355 [MP3] 20110521-01-FranzKline.mp3 -> 20110521-WED7Opera3-01-FranzKline.mp3
+    356 [MP3] 20110521-02-ThreeSongs.mp3 -> 20110521-WED7Opera3-02-ThreeSongs.mp3
+    357 [MP3] 20110521-03-Gymnopedies.mp3 -> 20110521-WED7Opera3-03-Gymnopedies.mp3
+    358 [MP3] 20110521-04-Socrate.mp3 -> 20110521-WED7Opera3-04-Socrate.mp3
+    359 [MP3] 20110521-05-MadameDied.mp3 -> 20110521-WED7Opera3-05-MadameDied.mp3
+    360 [Joint MP3s] 20110521-01-FranzKline.mp3 -> 20110521-WED7Opera3-01-FranzKline.mp3
+    361 [Joint MP3s] 20110521-02-ThreeSongs.mp3 -> 20110521-WED7Opera3-02-ThreeSongs.mp3
+    362 [Joint MP3s] 20110521-03-Gymnopedies.mp3 -> 20110521-WED7Opera3-03-Gymnopedies.mp3
+    363 [Joint MP3s] 20110521-04-Socrate.mp3 -> 20110521-WED7Opera3-04-Socrate.mp3
+    364 [Joint MP3s] 20110521-05-MadameDied.mp3 -> 20110521-WED7Opera3-05-MadameDied.mp3
+=====Done=====20110522-CChenHonors    365 [Stereo 96] 20110522-01-PreFug9E854.wav -> 20110522-CChenHonors-01-PreFug9E854.wav
+    366 [Stereo 96] 20110522-02-RagStravinsky.wav -> 20110522-CChenHonors-02-RagStravinsky.wav
+    367 [Stereo 96] 20110522-03-Beet32VarCmin.wav -> 20110522-CChenHonors-03-Beet32VarCmin.wav
+    368 [Stereo 96] 20110522-04-G#mOp32no12.wav -> 20110522-CChenHonors-04-G#mOp32no12.wav
+    369 [Stereo 96] 20110522-05-GmOp23No5.wav -> 20110522-CChenHonors-05-GmOp23No5.wav
+    370 [Stereo 96] 20110522-06-LaPlusQueLente.wav -> 20110522-CChenHonors-06-LaPlusQueLente.wav
+    371 [Stereo 96] 20110522-07-SpianatoPolonaise.wav -> 20110522-CChenHonors-07-SpianatoPolonaise.wav
+    372 [MP3] 20110522-01-PreFug9E854.mp3 -> 20110522-CChenHonors-01-PreFug9E854.mp3
+    373 [MP3] 20110522-02-RagStravinsky.mp3 -> 20110522-CChenHonors-02-RagStravinsky.mp3
+    374 [MP3] 20110522-03-Beet32VarCmin.mp3 -> 20110522-CChenHonors-03-Beet32VarCmin.mp3
+    375 [MP3] 20110522-04-G#mOp32no12.mp3 -> 20110522-CChenHonors-04-G#mOp32no12.mp3
+    376 [MP3] 20110522-05-GmOp23No5.mp3 -> 20110522-CChenHonors-05-GmOp23No5.mp3
+    377 [MP3] 20110522-06-LaPlusQueLente.mp3 -> 20110522-CChenHonors-06-LaPlusQueLente.mp3
+    378 [MP3] 20110522-07-SpianatoPolonaise.mp3 -> 20110522-CChenHonors-07-SpianatoPolonaise.mp3
+    379 [Joint MP3s] 20110522-01-PreFug9E854.mp3 -> 20110522-CChenHonors-01-PreFug9E854.mp3
+    380 [Joint MP3s] 20110522-02-RagStravinsky.mp3 -> 20110522-CChenHonors-02-RagStravinsky.mp3
+    381 [Joint MP3s] 20110522-03-Beet32VarCmin.mp3 -> 20110522-CChenHonors-03-Beet32VarCmin.mp3
+    382 [Joint MP3s] 20110522-04-G#mOp32no12.mp3 -> 20110522-CChenHonors-04-G#mOp32no12.mp3
+    383 [Joint MP3s] 20110522-05-GmOp23No5.mp3 -> 20110522-CChenHonors-05-GmOp23No5.mp3
+    384 [Joint MP3s] 20110522-06-LaPlusQueLente.mp3 -> 20110522-CChenHonors-06-LaPlusQueLente.mp3
+    385 [Joint MP3s] 20110522-07-SpianatoPolonaise.mp3 -> 20110522-CChenHonors-07-SpianatoPolonaise.mp3
+=====Done=====20110523-IndianMusic    386 [Stereo 96] 20110523-01-Laagi1.wav -> 20110523-IndianMusic-01-Laagi1.wav
+    387 [Stereo 96] 20110523-02-Laagi2.wav -> 20110523-IndianMusic-02-Laagi2.wav
+    388 [Stereo 96] 20110523-03-Laagi3.wav -> 20110523-IndianMusic-03-Laagi3.wav
+    389 [Stereo 96] 20110523-04-TinÕdal4.wav -> 20110523-IndianMusic-04-TinÕdal4.wav
+    390 [Stereo 96] 20110523-05-Raga1.wav -> 20110523-IndianMusic-05-Raga1.wav
+    391 [Stereo 96] 20110523-06-Raga2.wav -> 20110523-IndianMusic-06-Raga2.wav
+    392 [Stereo 96] 20110523-07-RagaFinale.wav -> 20110523-IndianMusic-07-RagaFinale.wav
+    393 [MP3] 20110523-01-Laagi1.mp3 -> 20110523-IndianMusic-01-Laagi1.mp3
+    394 [MP3] 20110523-02-Laagi2.mp3 -> 20110523-IndianMusic-02-Laagi2.mp3
+    395 [MP3] 20110523-03-Laagi3.mp3 -> 20110523-IndianMusic-03-Laagi3.mp3
+    396 [MP3] 20110523-04-TinÕdal4.mp3 -> 20110523-IndianMusic-04-TinÕdal4.mp3
+    397 [MP3] 20110523-05-Raga1.mp3 -> 20110523-IndianMusic-05-Raga1.mp3
+    398 [MP3] 20110523-06-Raga2.mp3 -> 20110523-IndianMusic-06-Raga2.mp3
+    399 [MP3] 20110523-07-RagaFinale.mp3 -> 20110523-IndianMusic-07-RagaFinale.mp3
+    400 [Joint MP3s] 20110523-01-Laagi1.mp3 -> 20110523-IndianMusic-01-Laagi1.mp3
+    401 [Joint MP3s] 20110523-02-Laagi2.mp3 -> 20110523-IndianMusic-02-Laagi2.mp3
+    402 [Joint MP3s] 20110523-03-Laagi3.mp3 -> 20110523-IndianMusic-03-Laagi3.mp3
+    403 [Joint MP3s] 20110523-04-TinÕdal4.mp3 -> 20110523-IndianMusic-04-TinÕdal4.mp3
+    404 [Joint MP3s] 20110523-05-Raga1.mp3 -> 20110523-IndianMusic-05-Raga1.mp3
+    405 [Joint MP3s] 20110523-06-Raga2.mp3 -> 20110523-IndianMusic-06-Raga2.mp3
+    406 [Joint MP3s] 20110523-07-RagaFinale.mp3 -> 20110523-IndianMusic-07-RagaFinale.mp3
+=====Done=====20110524-Gospel3    407 [Stereo 96] 20110524-01-kensintro.wav -> 20110524-Gospel3-01-kensintro.wav
+    408 [Stereo 96] 20110524-02-wepraiseyou.wav -> 20110524-Gospel3-02-wepraiseyou.wav
+    409 [Stereo 96] 20110524-03-alldaylong.wav -> 20110524-Gospel3-03-alldaylong.wav
+    410 [Stereo 96] 20110524-04-sogood.wav -> 20110524-Gospel3-04-sogood.wav
+    411 [Stereo 96] 20110524-05-standing.wav -> 20110524-Gospel3-05-standing.wav
+    412 [Stereo 96] 20110524-06-waiting.wav -> 20110524-Gospel3-06-waiting.wav
+    413 [Stereo 96] 20110524-07-battle.wav -> 20110524-Gospel3-07-battle.wav
+    414 [Stereo 96] 20110524-08-godisable.wav -> 20110524-Gospel3-08-godisable.wav
+    415 [Stereo 96] 20110524-09-kentalks.wav -> 20110524-Gospel3-09-kentalks.wav
+    416 [Stereo 96] 20110524-10-everytime.wav -> 20110524-Gospel3-10-everytime.wav
+    417 [Stereo 96] 20110524-11-standingby.wav -> 20110524-Gospel3-11-standingby.wav
+    418 [Stereo 96] 20110524-12-jesuslovesme.wav -> 20110524-Gospel3-12-jesuslovesme.wav
+    419 [Stereo 96] 20110524-13-burden.wav -> 20110524-Gospel3-13-burden.wav
+    420 [Stereo 96] 20110524-14-lift.wav -> 20110524-Gospel3-14-lift.wav
+    421 [Stereo 96] 20110524-15-thankyous.wav -> 20110524-Gospel3-15-thankyous.wav
+    422 [Stereo 96] 20110524-16-worshipthelord.wav -> 20110524-Gospel3-16-worshipthelord.wav
+Unbalanced Changes=====Done=====20110526-ISJuries1    423 [Stereo 96] 20110526-01-Tinkle.wav -> 20110526-ISJuries1-01-Tinkle.wav
+    424 [Stereo 96] 20110526-02-Weinstein.wav -> 20110526-ISJuries1-02-Weinstein.wav
+    425 [Stereo 96] 20110526-03-Zullo.wav -> 20110526-ISJuries1-03-Zullo.wav
+Unbalanced Changes=====Done=====20110526-Singers    426 [Stereo 96] 20110526-01-walzer.wav -> 20110526-Singers-01-walzer.wav
+    427 [Stereo 96] 20110526-02-mass.wav -> 20110526-Singers-02-mass.wav
+    428 [MP3] 20110526-01-walzer.mp3 -> 20110526-Singers-01-walzer.mp3
+    429 [MP3] 20110526-02-mass.mp3 -> 20110526-Singers-02-mass.mp3
+    430 [Joint MP3s] 20110526-01-walzer.mp3 -> 20110526-Singers-01-walzer.mp3
+    431 [Joint MP3s] 20110526-02-mass.mp3 -> 20110526-Singers-02-mass.mp3
+=====Done=====20110527-ISJuries2=====Done=====20110531-ChamOrch    432 [Stereo 96] 20110531-01-symphony.wav -> 20110531-ChamOrch-01-symphony.wav
+    433 [Stereo 96] 20110531-02-ballade.wav -> 20110531-ChamOrch-02-ballade.wav
+    434 [Stereo 96] 20110531-03-overture.wav -> 20110531-ChamOrch-03-overture.wav
+    435 [MP3] 20110531-01-symphony.mp3 -> 20110531-ChamOrch-01-symphony.mp3
+    436 [MP3] 20110531-02-ballade.mp3 -> 20110531-ChamOrch-02-ballade.mp3
+    437 [MP3] 20110531-03-overture.mp3 -> 20110531-ChamOrch-03-overture.mp3
+    438 [Joint MP3s] 20110531-01-symphony.mp3 -> 20110531-ChamOrch-01-symphony.mp3
+    439 [Joint MP3s] 20110531-02-ballade.mp3 -> 20110531-ChamOrch-02-ballade.mp3
+    440 [Joint MP3s] 20110531-03-overture.mp3 -> 20110531-ChamOrch-03-overture.mp3
+=====Done=====20110601-95jc3    441 [Stereo 96] 20110601-01-Isabel.wav -> 20110601-95jc3-01-Isabel.wav
+    442 [Stereo 96] 20110601-02-Mellow.wav -> 20110601-95jc3-02-Mellow.wav
+    443 [Stereo 96] 20110601-03-Gazzeloni.wav -> 20110601-95jc3-03-Gazzeloni.wav
+    444 [Stereo 96] 20110601-04-Nine.wav -> 20110601-95jc3-04-Nine.wav
+    445 [Stereo 96] 20110601-05-SweetSpot.wav -> 20110601-95jc3-05-SweetSpot.wav
+    446 [Stereo 96] 20110601-06-Next .wav -> 20110601-95jc3-06-Next .wav
+    447 [Stereo 96] 20110601-07-Cais.wav -> 20110601-95jc3-07-Cais.wav
+    448 [Stereo 96] 20110601-08-Whistle.wav -> 20110601-95jc3-08-Whistle.wav
+    449 [Stereo 96] 20110601-09-Spain.wav -> 20110601-95jc3-09-Spain.wav
+    450 [Stereo 96] 20110601-10-Reflections.wav -> 20110601-95jc3-10-Reflections.wav
+    451 [Stereo 96] 20110601-11-Ashwin.wav -> 20110601-95jc3-11-Ashwin.wav
+    452 [Stereo 96] 20110601-12-RGB.wav -> 20110601-95jc3-12-RGB.wav
+    453 [MP3] 20110601-01-Isabel.mp3 -> 20110601-95jc3-01-Isabel.mp3
+    454 [MP3] 20110601-02-Mellow.mp3 -> 20110601-95jc3-02-Mellow.mp3
+    455 [MP3] 20110601-03-Gazzeloni.mp3 -> 20110601-95jc3-03-Gazzeloni.mp3
+    456 [MP3] 20110601-04-Nine.mp3 -> 20110601-95jc3-04-Nine.mp3
+    457 [MP3] 20110601-05-SweetSpot.mp3 -> 20110601-95jc3-05-SweetSpot.mp3
+    458 [MP3] 20110601-06-Next .mp3 -> 20110601-95jc3-06-Next .mp3
+    459 [MP3] 20110601-07-Cais.mp3 -> 20110601-95jc3-07-Cais.mp3
+    460 [MP3] 20110601-08-Whistle.mp3 -> 20110601-95jc3-08-Whistle.mp3
+    461 [MP3] 20110601-09-Spain.mp3 -> 20110601-95jc3-09-Spain.mp3
+    462 [MP3] 20110601-10-Reflections.mp3 -> 20110601-95jc3-10-Reflections.mp3
+    463 [MP3] 20110601-11-Ashwin.mp3 -> 20110601-95jc3-11-Ashwin.mp3
+    464 [MP3] 20110601-12-RGB.mp3 -> 20110601-95jc3-12-RGB.mp3
+    465 [Joint MP3s] 20110601-01-Isabel.mp3 -> 20110601-95jc3-01-Isabel.mp3
+    466 [Joint MP3s] 20110601-02-Mellow.mp3 -> 20110601-95jc3-02-Mellow.mp3
+    467 [Joint MP3s] 20110601-03-Gazzeloni.mp3 -> 20110601-95jc3-03-Gazzeloni.mp3
+    468 [Joint MP3s] 20110601-04-Nine.mp3 -> 20110601-95jc3-04-Nine.mp3
+    469 [Joint MP3s] 20110601-05-SweetSpot.mp3 -> 20110601-95jc3-05-SweetSpot.mp3
+    470 [Joint MP3s] 20110601-06-Next .mp3 -> 20110601-95jc3-06-Next .mp3
+    471 [Joint MP3s] 20110601-07-Cais.mp3 -> 20110601-95jc3-07-Cais.mp3
+    472 [Joint MP3s] 20110601-08-Whistle.mp3 -> 20110601-95jc3-08-Whistle.mp3
+    473 [Joint MP3s] 20110601-09-Spain.mp3 -> 20110601-95jc3-09-Spain.mp3
+    474 [Joint MP3s] 20110601-10-Reflections.mp3 -> 20110601-95jc3-10-Reflections.mp3
+    475 [Joint MP3s] 20110601-11-Ashwin.mp3 -> 20110601-95jc3-11-Ashwin.mp3
+    476 [Joint MP3s] 20110601-12-RGB.mp3 -> 20110601-95jc3-12-RGB.mp3
+=====Done=====20110602-Wind3    477 [Stereo 96] 20110602-01-EspritCorps.wav -> 20110602-Wind3-01-EspritCorps.wav
+    478 [Stereo 96] 20110602-02-Shenandoah.wav -> 20110602-Wind3-02-Shenandoah.wav
+    479 [Stereo 96] 20110602-03-Finale.wav -> 20110602-Wind3-03-Finale.wav
+    480 [Stereo 96] 20110602-04-Chester.wav -> 20110602-Wind3-04-Chester.wav
+    481 [Stereo 96] 20110602-05-WeddingDance.wav -> 20110602-Wind3-05-WeddingDance.wav
+    482 [Stereo 96] 20110602-06-KingStephen.wav -> 20110602-Wind3-06-KingStephen.wav
+    483 [Stereo 96] 20110602-07-Guarany.wav -> 20110602-Wind3-07-Guarany.wav
+    484 [Stereo 96] 20110602-08-Pictures.wav -> 20110602-Wind3-08-Pictures.wav
+    485 [Stereo 96] 20110602-09-AmparitoRoca.wav -> 20110602-Wind3-09-AmparitoRoca.wav
+    486 [Stereo 96] 20110602-10-TriumphalMarch.wav -> 20110602-Wind3-10-TriumphalMarch.wav
+    487 [MP3] 20110602-01-EspritCorps.mp3 -> 20110602-Wind3-01-EspritCorps.mp3
+    488 [MP3] 20110602-02-Shenandoah.mp3 -> 20110602-Wind3-02-Shenandoah.mp3
+    489 [MP3] 20110602-03-Finale.mp3 -> 20110602-Wind3-03-Finale.mp3
+    490 [MP3] 20110602-04-Chester.mp3 -> 20110602-Wind3-04-Chester.mp3
+    491 [MP3] 20110602-05-WeddingDance.mp3 -> 20110602-Wind3-05-WeddingDance.mp3
+    492 [MP3] 20110602-06-KingStephen.mp3 -> 20110602-Wind3-06-KingStephen.mp3
+    493 [MP3] 20110602-07-Guarany.mp3 -> 20110602-Wind3-07-Guarany.mp3
+    494 [MP3] 20110602-08-Pictures.mp3 -> 20110602-Wind3-08-Pictures.mp3
+    495 [MP3] 20110602-09-AmparitoRoca.mp3 -> 20110602-Wind3-09-AmparitoRoca.mp3
+    496 [MP3] 20110602-10-TriumphalMarch.mp3 -> 20110602-Wind3-10-TriumphalMarch.mp3
+    497 [Joint MP3s] 20110602-01-EspritCorps.mp3 -> 20110602-Wind3-01-EspritCorps.mp3
+    498 [Joint MP3s] 20110602-02-Shenandoah.mp3 -> 20110602-Wind3-02-Shenandoah.mp3
+    499 [Joint MP3s] 20110602-03-Finale.mp3 -> 20110602-Wind3-03-Finale.mp3
+    500 [Joint MP3s] 20110602-04-Chester.mp3 -> 20110602-Wind3-04-Chester.mp3
+    501 [Joint MP3s] 20110602-05-WeddingDance.mp3 -> 20110602-Wind3-05-WeddingDance.mp3
+    502 [Joint MP3s] 20110602-06-KingStephen.mp3 -> 20110602-Wind3-06-KingStephen.mp3
+    503 [Joint MP3s] 20110602-07-Guarany.mp3 -> 20110602-Wind3-07-Guarany.mp3
+    504 [Joint MP3s] 20110602-08-Pictures.mp3 -> 20110602-Wind3-08-Pictures.mp3
+    505 [Joint MP3s] 20110602-09-AmparitoRoca.mp3 -> 20110602-Wind3-09-AmparitoRoca.mp3
+    506 [Joint MP3s] 20110602-10-TriumphalMarch.mp3 -> 20110602-Wind3-10-TriumphalMarch.mp3
+=====Done=====20110603-Voice    507 [Stereo 96] 20110603-01-Batti.wav -> 20110603-Voice-01-Batti.wav
+    508 [Stereo 96] 20110603-02-Athena.wav -> 20110603-Voice-02-Athena.wav
+    509 [Stereo 96] 20110603-03-Figaro.wav -> 20110603-Voice-03-Figaro.wav
+    510 [Stereo 96] 20110603-04-EmptyChairs.wav -> 20110603-Voice-04-EmptyChairs.wav
+    511 [Stereo 96] 20110603-05-Vardoro.wav -> 20110603-Voice-05-Vardoro.wav
+    512 [Stereo 96] 20110603-06-QuantoeBella.wav -> 20110603-Voice-06-QuantoeBella.wav
+    513 [Stereo 96] 20110603-07-Ilmio.wav -> 20110603-Voice-07-Ilmio.wav
+    514 [Stereo 96] 20110603-08-MeinHerr.wav -> 20110603-Voice-08-MeinHerr.wav
+    515 [Stereo 96] 20110603-09-Nina.wav -> 20110603-Voice-09-Nina.wav
+    516 [Stereo 96] 20110603-10-NatureBoy.wav -> 20110603-Voice-10-NatureBoy.wav
+    517 [Stereo 96] 20110603-11-UnaVoce.wav -> 20110603-Voice-11-UnaVoce.wav
+    518 [Stereo 96] 20110603-12-GuardaSorrella.wav -> 20110603-Voice-12-GuardaSorrella.wav
+    519 [Stereo 96] 20110603-13-SollIchDich.wav -> 20110603-Voice-13-SollIchDich.wav
+    520 [Stereo 96] 20110603-14-ViaResti.wav -> 20110603-Voice-14-ViaResti.wav
+    521 [Stereo 96] 20110603-15-Soave.wav -> 20110603-Voice-15-Soave.wav
+    522 [Stereo 96] 20110603-16-IlCoreViDono.wav -> 20110603-Voice-16-IlCoreViDono.wav
+    523 [Stereo 96] 20110603-17-TheTango.wav -> 20110603-Voice-17-TheTango.wav
+    524 [MP3] 20110603-01-Batti.mp3 -> 20110603-Voice-01-Batti.mp3
+    525 [MP3] 20110603-02-Athena.mp3 -> 20110603-Voice-02-Athena.mp3
+    526 [MP3] 20110603-03-Figaro.mp3 -> 20110603-Voice-03-Figaro.mp3
+    527 [MP3] 20110603-04-EmptyChairs.mp3 -> 20110603-Voice-04-EmptyChairs.mp3
+    528 [MP3] 20110603-05-Vardoro.mp3 -> 20110603-Voice-05-Vardoro.mp3
+    529 [MP3] 20110603-06-QuantoeBella.mp3 -> 20110603-Voice-06-QuantoeBella.mp3
+    530 [MP3] 20110603-07-Ilmio.mp3 -> 20110603-Voice-07-Ilmio.mp3
+    531 [MP3] 20110603-08-MeinHerr.mp3 -> 20110603-Voice-08-MeinHerr.mp3
+    532 [MP3] 20110603-09-Nina.mp3 -> 20110603-Voice-09-Nina.mp3
+    533 [MP3] 20110603-10-NatureBoy.mp3 -> 20110603-Voice-10-NatureBoy.mp3
+    534 [MP3] 20110603-11-UnaVoce.mp3 -> 20110603-Voice-11-UnaVoce.mp3
+    535 [MP3] 20110603-12-GuardaSorrella.mp3 -> 20110603-Voice-12-GuardaSorrella.mp3
+    536 [MP3] 20110603-13-SollIchDich.mp3 -> 20110603-Voice-13-SollIchDich.mp3
+    537 [MP3] 20110603-14-ViaResti.mp3 -> 20110603-Voice-14-ViaResti.mp3
+    538 [MP3] 20110603-15-Soave.mp3 -> 20110603-Voice-15-Soave.mp3
+    539 [MP3] 20110603-16-IlCoreViDono.mp3 -> 20110603-Voice-16-IlCoreViDono.mp3
+    540 [MP3] 20110603-17-TheTango.mp3 -> 20110603-Voice-17-TheTango.mp3
+    541 [Joint MP3s] 20110603-01-Batti.mp3 -> 20110603-Voice-01-Batti.mp3
+    542 [Joint MP3s] 20110603-02-Athena.mp3 -> 20110603-Voice-02-Athena.mp3
+    543 [Joint MP3s] 20110603-03-Figaro.mp3 -> 20110603-Voice-03-Figaro.mp3
+    544 [Joint MP3s] 20110603-04-EmptyChairs.mp3 -> 20110603-Voice-04-EmptyChairs.mp3
+    545 [Joint MP3s] 20110603-05-Vardoro.mp3 -> 20110603-Voice-05-Vardoro.mp3
+    546 [Joint MP3s] 20110603-06-QuantoeBella.mp3 -> 20110603-Voice-06-QuantoeBella.mp3
+    547 [Joint MP3s] 20110603-07-Ilmio.mp3 -> 20110603-Voice-07-Ilmio.mp3
+    548 [Joint MP3s] 20110603-08-MeinHerr.mp3 -> 20110603-Voice-08-MeinHerr.mp3
+    549 [Joint MP3s] 20110603-09-Nina.mp3 -> 20110603-Voice-09-Nina.mp3
+    550 [Joint MP3s] 20110603-10-NatureBoy.mp3 -> 20110603-Voice-10-NatureBoy.mp3
+    551 [Joint MP3s] 20110603-11-UnaVoce.mp3 -> 20110603-Voice-11-UnaVoce.mp3
+    552 [Joint MP3s] 20110603-12-GuardaSorrella.mp3 -> 20110603-Voice-12-GuardaSorrella.mp3
+    553 [Joint MP3s] 20110603-13-SollIchDich.mp3 -> 20110603-Voice-13-SollIchDich.mp3
+    554 [Joint MP3s] 20110603-14-ViaResti.mp3 -> 20110603-Voice-14-ViaResti.mp3
+    555 [Joint MP3s] 20110603-15-Soave.mp3 -> 20110603-Voice-15-Soave.mp3
+    556 [Joint MP3s] 20110603-16-IlCoreViDono.mp3 -> 20110603-Voice-16-IlCoreViDono.mp3
+    557 [Joint MP3s] 20110603-17-TheTango.mp3 -> 20110603-Voice-17-TheTango.mp3
+=====Done=====20110604-LJSC12=====Done=====20110604-UGJuries    1 [Stereo 96] 20110604-01-tliiukiylsne.wav -> 20110604-UGJuries-01-tliiukiylsne.wav
+    2 [Stereo 96] 20110604-02-FlatelyJury.wav -> 20110604-UGJuries-02-FlatelyJury.wav
+    3 [Stereo 96] 20110604-03-truth.wav -> 20110604-UGJuries-03-truth.wav
+    4 [Stereo 96] 20110604-04-LockwoodJury.wav -> 20110604-UGJuries-04-LockwoodJury.wav
+    5 [Stereo 96] 20110604-05-apple.wav -> 20110604-UGJuries-05-apple.wav
+    6 [Stereo 96] 20110604-06-FrancisJury.wav -> 20110604-UGJuries-06-FrancisJury.wav
+    7 [Stereo 96] 20110604-07-DeComposition.wav -> 20110604-UGJuries-07-DeComposition.wav
+    8 [Stereo 96] 20110604-08-WangJury.wav -> 20110604-UGJuries-08-WangJury.wav
+    9 [Stereo 96] 20110604-09-StringQuartet.wav -> 20110604-UGJuries-09-StringQuartet.wav
+    10 [Stereo 96] 20110604-10-WuJury.wav -> 20110604-UGJuries-10-WuJury.wav
+    11 [Stereo 96] 20110604-11-Promising.wav -> 20110604-UGJuries-11-Promising.wav
+    12 [Stereo 96] 20110604-12-BenZviJury.wav -> 20110604-UGJuries-12-BenZviJury.wav
+    13 [Stereo 96] 20110604-13-PianoParty.wav -> 20110604-UGJuries-13-PianoParty.wav
+    14 [Stereo 96] 20110604-14-RiceJury.wav -> 20110604-UGJuries-14-RiceJury.wav
+    15 [Stereo 96] 20110604-15-Refraction.wav -> 20110604-UGJuries-15-Refraction.wav
+    16 [Stereo 96] 20110604-16-StanleyJury.wav -> 20110604-UGJuries-16-StanleyJury.wav
+    17 [Stereo 96] 20110604-17-Distillate.wav -> 20110604-UGJuries-17-Distillate.wav
+    18 [Stereo 96] 20110604-18-DobeyJury.wav -> 20110604-UGJuries-18-DobeyJury.wav
+    19 [Stereo 96] 20110604-19-Septia.wav -> 20110604-UGJuries-19-Septia.wav
+    20 [Stereo 96] 20110604-20-RoseJury.wav -> 20110604-UGJuries-20-RoseJury.wav
+    21 [Stereo 96] 20110604-21-Number.wav -> 20110604-UGJuries-21-Number.wav
+    22 [Stereo 96] 20110604-22-SundstromJury.wav -> 20110604-UGJuries-22-SundstromJury.wav
+    23 [Stereo 96] 20110604-23-Culmination.wav -> 20110604-UGJuries-23-Culmination.wav
+    24 [Stereo 96] 20110604-24-UpretiJury.wav -> 20110604-UGJuries-24-UpretiJury.wav
+    25 [Stereo 96] 20110604-25-Lokasenna.wav -> 20110604-UGJuries-25-Lokasenna.wav
+    26 [Stereo 96] 20110604-26-GunsolusJury.wav -> 20110604-UGJuries-26-GunsolusJury.wav
+    27 [MP3] 20110604-01-tliiukiylsne.mp3 -> 20110604-UGJuries-01-tliiukiylsne.mp3
+    28 [MP3] 20110604-02-FlatelyJury.mp3 -> 20110604-UGJuries-02-FlatelyJury.mp3
+    29 [MP3] 20110604-03-truth.mp3 -> 20110604-UGJuries-03-truth.mp3
+    30 [MP3] 20110604-04-LockwoodJury.mp3 -> 20110604-UGJuries-04-LockwoodJury.mp3
+    31 [MP3] 20110604-05-apple.mp3 -> 20110604-UGJuries-05-apple.mp3
+    32 [MP3] 20110604-06-FrancisJury.mp3 -> 20110604-UGJuries-06-FrancisJury.mp3
+    33 [MP3] 20110604-07-DeComposition.mp3 -> 20110604-UGJuries-07-DeComposition.mp3
+    34 [MP3] 20110604-08-WangJury.mp3 -> 20110604-UGJuries-08-WangJury.mp3
+    35 [MP3] 20110604-09-StringQuartet.mp3 -> 20110604-UGJuries-09-StringQuartet.mp3
+    36 [MP3] 20110604-10-WuJury.mp3 -> 20110604-UGJuries-10-WuJury.mp3
+    37 [MP3] 20110604-11-Promising.mp3 -> 20110604-UGJuries-11-Promising.mp3
+    38 [MP3] 20110604-12-BenZviJury.mp3 -> 20110604-UGJuries-12-BenZviJury.mp3
+    39 [MP3] 20110604-13-PianoParty.mp3 -> 20110604-UGJuries-13-PianoParty.mp3
+    40 [MP3] 20110604-14-RiceJury.mp3 -> 20110604-UGJuries-14-RiceJury.mp3
+    41 [MP3] 20110604-15-Refraction.mp3 -> 20110604-UGJuries-15-Refraction.mp3
+    42 [MP3] 20110604-16-StanleyJury.mp3 -> 20110604-UGJuries-16-StanleyJury.mp3
+    43 [MP3] 20110604-17-Distillate.mp3 -> 20110604-UGJuries-17-Distillate.mp3
+    44 [MP3] 20110604-18-DobeyJury.mp3 -> 20110604-UGJuries-18-DobeyJury.mp3
+    45 [MP3] 20110604-19-Septia.mp3 -> 20110604-UGJuries-19-Septia.mp3
+    46 [MP3] 20110604-20-RoseJury.mp3 -> 20110604-UGJuries-20-RoseJury.mp3
+    47 [MP3] 20110604-21-Number.mp3 -> 20110604-UGJuries-21-Number.mp3
+    48 [MP3] 20110604-22-SundstromJury.mp3 -> 20110604-UGJuries-22-SundstromJury.mp3
+    49 [MP3] 20110604-23-Culmination.mp3 -> 20110604-UGJuries-23-Culmination.mp3
+    50 [MP3] 20110604-24-UpretiJury.mp3 -> 20110604-UGJuries-24-UpretiJury.mp3
+    51 [MP3] 20110604-25-Lokasenna.mp3 -> 20110604-UGJuries-25-Lokasenna.mp3
+    52 [MP3] 20110604-26-GunsolusJury.mp3 -> 20110604-UGJuries-26-GunsolusJury.mp3
+    53 [Joint MP3s] 20110604-01-tliiukiylsne.mp3 -> 20110604-UGJuries-01-tliiukiylsne.mp3
+    54 [Joint MP3s] 20110604-02-FlatelyJury.mp3 -> 20110604-UGJuries-02-FlatelyJury.mp3
+    55 [Joint MP3s] 20110604-03-truth.mp3 -> 20110604-UGJuries-03-truth.mp3
+    56 [Joint MP3s] 20110604-04-LockwoodJury.mp3 -> 20110604-UGJuries-04-LockwoodJury.mp3
+    57 [Joint MP3s] 20110604-05-apple.mp3 -> 20110604-UGJuries-05-apple.mp3
+    58 [Joint MP3s] 20110604-06-FrancisJury.mp3 -> 20110604-UGJuries-06-FrancisJury.mp3
+    59 [Joint MP3s] 20110604-07-DeComposition.mp3 -> 20110604-UGJuries-07-DeComposition.mp3
+    60 [Joint MP3s] 20110604-08-WangJury.mp3 -> 20110604-UGJuries-08-WangJury.mp3
+    61 [Joint MP3s] 20110604-09-StringQuartet.mp3 -> 20110604-UGJuries-09-StringQuartet.mp3
+    62 [Joint MP3s] 20110604-10-WuJury.mp3 -> 20110604-UGJuries-10-WuJury.mp3
+    63 [Joint MP3s] 20110604-11-Promising.mp3 -> 20110604-UGJuries-11-Promising.mp3
+    64 [Joint MP3s] 20110604-12-BenZviJury.mp3 -> 20110604-UGJuries-12-BenZviJury.mp3
+    65 [Joint MP3s] 20110604-13-PianoParty.mp3 -> 20110604-UGJuries-13-PianoParty.mp3
+    66 [Joint MP3s] 20110604-14-RiceJury.mp3 -> 20110604-UGJuries-14-RiceJury.mp3
+    67 [Joint MP3s] 20110604-15-Refraction.mp3 -> 20110604-UGJuries-15-Refraction.mp3
+    68 [Joint MP3s] 20110604-16-StanleyJury.mp3 -> 20110604-UGJuries-16-StanleyJury.mp3
+    69 [Joint MP3s] 20110604-17-Distillate.mp3 -> 20110604-UGJuries-17-Distillate.mp3
+    70 [Joint MP3s] 20110604-18-DobeyJury.mp3 -> 20110604-UGJuries-18-DobeyJury.mp3
+    71 [Joint MP3s] 20110604-19-Septia.mp3 -> 20110604-UGJuries-19-Septia.mp3
+    72 [Joint MP3s] 20110604-20-RoseJury.mp3 -> 20110604-UGJuries-20-RoseJury.mp3
+    73 [Joint MP3s] 20110604-21-Number.mp3 -> 20110604-UGJuries-21-Number.mp3
+    74 [Joint MP3s] 20110604-22-SundstromJury.mp3 -> 20110604-UGJuries-22-SundstromJury.mp3
+    75 [Joint MP3s] 20110604-23-Culmination.mp3 -> 20110604-UGJuries-23-Culmination.mp3
+    76 [Joint MP3s] 20110604-24-UpretiJury.mp3 -> 20110604-UGJuries-24-UpretiJury.mp3
+    77 [Joint MP3s] 20110604-25-Lokasenna.mp3 -> 20110604-UGJuries-25-Lokasenna.mp3
+    78 [Joint MP3s] 20110604-26-GunsolusJury.mp3 -> 20110604-UGJuries-26-GunsolusJury.mp3
+=====Done=====20110605-LJSC13=====Done=====20110606-MTrio3    79 [Stereo 96] 20110606-01-SonataDMajor.wav -> 20110606-MTrio3-01-SonataDMajor.wav
+    80 [Stereo 96] 20110606-02-PastoralesNoel.wav -> 20110606-MTrio3-02-PastoralesNoel.wav
+    81 [Stereo 96] 20110606-03-Keymaster.wav -> 20110606-MTrio3-03-Keymaster.wav
+    82 [Stereo 96] 20110606-04-Sambuca.wav -> 20110606-MTrio3-04-Sambuca.wav
+    83 [MP3] 20110606-01-SonataDMajor.mp3 -> 20110606-MTrio3-01-SonataDMajor.mp3
+    84 [MP3] 20110606-02-PastoralesNoel.mp3 -> 20110606-MTrio3-02-PastoralesNoel.mp3
+    85 [MP3] 20110606-03-Keymaster.mp3 -> 20110606-MTrio3-03-Keymaster.mp3
+    86 [MP3] 20110606-04-Sambuca.mp3 -> 20110606-MTrio3-04-Sambuca.mp3
+    87 [Joint MP3s] 20110606-01-SonataDMajor.mp3 -> 20110606-MTrio3-01-SonataDMajor.mp3
+    88 [Joint MP3s] 20110606-02-PastoralesNoel.mp3 -> 20110606-MTrio3-02-PastoralesNoel.mp3
+    89 [Joint MP3s] 20110606-03-Keymaster.mp3 -> 20110606-MTrio3-03-Keymaster.mp3
+    90 [Joint MP3s] 20110606-04-Sambuca.mp3 -> 20110606-MTrio3-04-Sambuca.mp3
+=====Done=====
