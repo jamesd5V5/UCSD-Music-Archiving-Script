@@ -1,0 +1,189 @@
+20111003-CamLu1    1 [Stereo 96] 20111103-01-Rondo.wav -> 20111003-CamLu1-01-Rondo.wav
+    2 [Stereo 96] 20111103-02-K478.wav -> 20111003-CamLu1-02-K478.wav
+    3 [Stereo 96] 20111103-03-Op21.wav -> 20111003-CamLu1-03-Op21.wav
+    4 [MP3] 20111103-01-Rondo.mp3 -> 20111003-CamLu1-01-Rondo.mp3
+    5 [MP3] 20111103-02-K478.mp3 -> 20111003-CamLu1-02-K478.mp3
+    6 [MP3] 20111103-03-Op21.mp3 -> 20111003-CamLu1-03-Op21.mp3
+    7 [Joint MP3s] 20111103-01-RondoAMajor.mp3 -> 20111003-CamLu1-01-RondoAMajor.mp3
+    8 [Joint MP3s] 20111103-02-PianoQuartetG.mp3 -> 20111003-CamLu1-02-PianoQuartetG.mp3
+    9 [Joint MP3s] 20111103-03-ConcertoDMajOp21.mp3 -> 20111003-CamLu1-03-ConcertoDMajOp21.mp3
+=====Done=====20111015-FallJuries    10 [Joint MP3s] 20111015-01-Stillness.mp3 -> 20111015-FallJuries-01-Stillness.mp3
+    11 [Joint MP3s] 20111015-02-ChenJury.mp3 -> 20111015-FallJuries-02-ChenJury.mp3
+    12 [Joint MP3s] 20111015-03-AllYouEver.mp3 -> 20111015-FallJuries-03-AllYouEver.mp3
+    13 [Joint MP3s] 20111015-04-JohnsonJury.mp3 -> 20111015-FallJuries-04-JohnsonJury.mp3
+    14 [Joint MP3s] 20111015-05-Entropy.mp3 -> 20111015-FallJuries-05-Entropy.mp3
+    15 [Joint MP3s] 20111015-06-RowanJury.mp3 -> 20111015-FallJuries-06-RowanJury.mp3
+Unbalanced Changes=====Done=====20111021-APHugoWolf    16 [Joint MP3s] 20111021-01-QrtCMinorD703.mp3 -> 20111021-APHugoWolf-01-QrtCMinorD703.mp3
+    17 [Joint MP3s] 20111021-02-QrtFmajorOp41.mp3 -> 20111021-APHugoWolf-02-QrtFmajorOp41.mp3
+    18 [Joint MP3s] 20111021-03-QrtDMinor.mp3 -> 20111021-APHugoWolf-03-QrtDMinor.mp3
+    19 [Joint MP3s] 20111021-04-Smefona.mp3 -> 20111021-APHugoWolf-04-Smefona.mp3
+Unbalanced Changes=====Done=====20111022-Soiree1    20 [Joint MP3s] 20111022-01-TrioSonataOp5.mp3 -> 20111022-Soiree1-01-TrioSonataOp5.mp3
+    21 [Joint MP3s] 20111022-02-IlCoreViDono.mp3 -> 20111022-Soiree1-02-IlCoreViDono.mp3
+    22 [Joint MP3s] 20111022-03-SuiteGminOp71.mp3 -> 20111022-Soiree1-03-SuiteGminOp71.mp3
+    23 [Joint MP3s] 20111022-04-StringSextBOp18.mp3 -> 20111022-Soiree1-04-StringSextBOp18.mp3
+Unbalanced Changes=====Done=====20111024-CamLu2    24 [Joint MP3s] 20111024-01-SonataCelloPiano.mp3 -> 20111024-CamLu2-01-SonataCelloPiano.mp3
+    25 [Joint MP3s] 20111024-02-FluteViolaHarp.mp3 -> 20111024-CamLu2-02-FluteViolaHarp.mp3
+    26 [Joint MP3s] 20111024-03-ViolinPiano.mp3 -> 20111024-CamLu2-03-ViolinPiano.mp3
+    27 [Joint MP3s] 20111024-04-Syrinx.mp3 -> 20111024-CamLu2-04-Syrinx.mp3
+    28 [Joint MP3s] 20111024-05-AfterSyrinx.mp3 -> 20111024-CamLu2-05-AfterSyrinx.mp3
+    29 [Joint MP3s] 20111024-06-Botticelliano.mp3 -> 20111024-CamLu2-06-Botticelliano.mp3
+    30 [Joint MP3s] 20111024-07-Encore.mp3 -> 20111024-CamLu2-07-Encore.mp3
+Unbalanced Changes=====Done=====20111027-Walters    31 [Joint MP3s] 20111027-01-Sequenza.mp3 -> 20111027-Walters-01-Sequenza.mp3
+    32 [Joint MP3s] 20111027-02-Captaine.mp3 -> 20111027-Walters-02-Captaine.mp3
+    33 [Joint MP3s] 20111027-03-Humorous.mp3 -> 20111027-Walters-03-Humorous.mp3
+    34 [Joint MP3s] 20111027-04-ProjectionI.mp3 -> 20111027-Walters-04-ProjectionI.mp3
+    35 [Joint MP3s] 20111027-05-IntersectionIV.mp3 -> 20111027-Walters-05-IntersectionIV.mp3
+    36 [Joint MP3s] 20111027-06-SontatGmin.mp3 -> 20111027-Walters-06-SontatGmin.mp3
+Unbalanced Changes=====Done=====20111030-LJSC12=====Done=====20111102-Wed7Telematic    37 [Joint MP3s] 20111102-01-Flowers.mp3 -> 20111102-Wed7Telematic-01-Flowers.mp3
+    38 [Joint MP3s] 20111102-02-enso.mp3 -> 20111102-Wed7Telematic-02-enso.mp3
+    39 [Joint MP3s] 20111102-03-Nourishments.mp3 -> 20111102-Wed7Telematic-03-Nourishments.mp3
+Unbalanced Changes=====Done=====20111104-Forum1    40 [Joint MP3s] 20111104-01-GlenNBekc.mp3 -> 20111104-Forum1-01-GlenNBekc.mp3
+Unbalanced Changes=====Done=====20111105-APPacifica=====Done=====20111105-ArtPower-Pacifica    41 [Stereo 96] 20111105-01-PacificaQrtTalk.wav -> 20111105-ArtPower-Pacifica-01-PacificaQrtTalk.wav
+    42 [Stereo 96] 20111105-02-QrtDMajOp18No3.wav -> 20111105-ArtPower-Pacifica-02-QrtDMajOp18No3.wav
+    43 [Stereo 96] 20111105-03-StringQrtNo3.wav -> 20111105-ArtPower-Pacifica-03-StringQrtNo3.wav
+    44 [Stereo 96] 20111105-04-StringQrtNo9.wav -> 20111105-ArtPower-Pacifica-04-StringQrtNo9.wav
+    45 [Stereo 96] 20111105-05-Opus130.wav -> 20111105-ArtPower-Pacifica-05-Opus130.wav
+    46 [MP3] 20111105-01-PacificaQrtTalk.mp3 -> 20111105-ArtPower-Pacifica-01-PacificaQrtTalk.mp3
+    47 [MP3] 20111105-02-QrtDMajOp18No3.mp3 -> 20111105-ArtPower-Pacifica-02-QrtDMajOp18No3.mp3
+    48 [MP3] 20111105-03-StringQrtNo3.mp3 -> 20111105-ArtPower-Pacifica-03-StringQrtNo3.mp3
+    49 [MP3] 20111105-04-StringQrtNo9.mp3 -> 20111105-ArtPower-Pacifica-04-StringQrtNo9.mp3
+    50 [MP3] 20111105-05-Opus130.mp3 -> 20111105-ArtPower-Pacifica-05-Opus130.mp3
+    51 [Joint MP3s] 20111105-01-PacificaQrtTalk.mp3 -> 20111105-ArtPower-Pacifica-01-PacificaQrtTalk.mp3
+    52 [Joint MP3s] 20111105-02-QrtDMajOp18No3.mp3 -> 20111105-ArtPower-Pacifica-02-QrtDMajOp18No3.mp3
+    53 [Joint MP3s] 20111105-03-StringQrtNo3.mp3 -> 20111105-ArtPower-Pacifica-03-StringQrtNo3.mp3
+    54 [Joint MP3s] 20111105-04-StringQrtNo9.mp3 -> 20111105-ArtPower-Pacifica-04-StringQrtNo9.mp3
+    55 [Joint MP3s] 20111105-05-Opus130.mp3 -> 20111105-ArtPower-Pacifica-05-Opus130.mp3
+=====Done=====20111107-1stMonNov    56 [Joint MP3s] 20111107-01-PlainMoving.mp3 -> 20111107-1stMonNov-01-PlainMoving.mp3
+    57 [Joint MP3s] 20111107-02-Rose.mp3 -> 20111107-1stMonNov-02-Rose.mp3
+    58 [Joint MP3s] 20111107-03-WinterKnee.mp3 -> 20111107-1stMonNov-03-WinterKnee.mp3
+    59 [Joint MP3s] 20111107-04-Riuti.mp3 -> 20111107-1stMonNov-04-Riuti.mp3
+    60 [Joint MP3s] 20111107-05-Klopfzeichen.mp3 -> 20111107-1stMonNov-05-Klopfzeichen.mp3
+Unbalanced Changes=====Done=====20111107-CamLu3    61 [Joint MP3s] 20111107-01-TrioSonataFMaj.mp3 -> 20111107-CamLu3-01-TrioSonataFMaj.mp3
+    62 [Joint MP3s] 20111107-02-ViolaOp147.mp3 -> 20111107-CamLu3-02-ViolaOp147.mp3
+    63 [Joint MP3s] 20111107-03-SextetOp37.mp3 -> 20111107-CamLu3-03-SextetOp37.mp3
+Unbalanced Changes=====Done=====20111110-Forum2    64 [Joint MP3s] 20111110-01-NeonMelSlam.mp3 -> 20111110-Forum2-01-NeonMelSlam.mp3
+    65 [Joint MP3s] 20111110-02-MemCervix.mp3 -> 20111110-Forum2-02-MemCervix.mp3
+    66 [Joint MP3s] 20111110-03-RockMary.mp3 -> 20111110-Forum2-03-RockMary.mp3
+    67 [Joint MP3s] 20111110-04-SmoothBadger.mp3 -> 20111110-Forum2-04-SmoothBadger.mp3
+    68 [Joint MP3s] 20111110-05-MoltenEyeFK.mp3 -> 20111110-Forum2-05-MoltenEyeFK.mp3
+Unbalanced Changes=====Done=====20111115-Derr    69 [Joint MP3s] 20111115-02-MakeEmGoAh.mp3 -> 20111115-Derr-02-MakeEmGoAh.mp3
+Unbalanced Changes=====Done=====20111116-Palimpsest1    70 [Joint MP3s] 20111116-01-ChamberNo2.mp3 -> 20111116-Palimpsest1-01-ChamberNo2.mp3
+    71 [Joint MP3s] 20111116-02-Luimen.mp3 -> 20111116-Palimpsest1-02-Luimen.mp3
+    72 [Joint MP3s] 20111116-03-CantTextu.mp3 -> 20111116-Palimpsest1-03-CantTextu.mp3
+    73 [Joint MP3s] 20111116-04-Nimbus.mp3 -> 20111116-Palimpsest1-04-Nimbus.mp3
+    74 [Joint MP3s] 20111116-05-ArieDaCapo.mp3 -> 20111116-Palimpsest1-05-ArieDaCapo.mp3
+    75 [Joint MP3s] 20111116-06-BetweenCat.mp3 -> 20111116-Palimpsest1-06-BetweenCat.mp3
+Unbalanced Changes=====Done=====20111117-rfbf1    76 [Joint MP3s] 20111117-01-DoubleMusic.mp3 -> 20111117-rfbf1-01-DoubleMusic.mp3
+    77 [Joint MP3s] 20111117-02-DanceMusic.mp3 -> 20111117-rfbf1-02-DanceMusic.mp3
+    78 [Joint MP3s] 20111117-03-SixFiveSix.mp3 -> 20111117-rfbf1-03-SixFiveSix.mp3
+    79 [Joint MP3s] 20111117-04-FirstCons.mp3 -> 20111117-rfbf1-04-FirstCons.mp3
+    80 [Joint MP3s] 20111117-05-Inlets.mp3 -> 20111117-rfbf1-05-Inlets.mp3
+    81 [Joint MP3s] 20111117-06-East11th.mp3 -> 20111117-rfbf1-06-East11th.mp3
+Unbalanced Changes=====Done=====20111118-MUS131    82 [Joint MP3s] 20111118-01-Chucho.mp3 -> 20111118-MUS131-01-Chucho.mp3
+    83 [Joint MP3s] 20111118-02-Ishmael.mp3 -> 20111118-MUS131-02-Ishmael.mp3
+    84 [Joint MP3s] 20111118-03-Sometimes.mp3 -> 20111118-MUS131-03-Sometimes.mp3
+    85 [Joint MP3s] 20111118-04-CalypsoMnr.mp3 -> 20111118-MUS131-04-CalypsoMnr.mp3
+    86 [Joint MP3s] 20111118-05-PeggyBlue.mp3 -> 20111118-MUS131-05-PeggyBlue.mp3
+    87 [Joint MP3s] 20111118-06-Portrait.mp3 -> 20111118-MUS131-06-Portrait.mp3
+    88 [Joint MP3s] 20111118-07-DrumTalk.mp3 -> 20111118-MUS131-07-DrumTalk.mp3
+    89 [Joint MP3s] 20111118-08-NoRain.mp3 -> 20111118-MUS131-08-NoRain.mp3
+    90 [Joint MP3s] 20111118-09-Directions.mp3 -> 20111118-MUS131-09-Directions.mp3
+Unbalanced Changes=====Done=====20111119-Kaiser    91 [Joint MP3s] 20111119-01-132350.mp3 -> 20111119-Kaiser-01-132350.mp3
+    92 [Joint MP3s] 20111119-02-13Themes.mp3 -> 20111119-Kaiser-02-13Themes.mp3
+Unbalanced Changes=====Done=====20111120-Telematic    93 [Stereo 96] 20111120-08-Improvisation.wav -> 20111120-Telematic-08-Improvisation.wav
+    94 [MP3] 20111120-08-Improvisation.mp3 -> 20111120-Telematic-08-Improvisation.mp3
+    95 [Joint MP3s] 20111120-01-Exhalations.mp3 -> 20111120-Telematic-01-Exhalations.mp3
+    96 [Joint MP3s] 20111120-02-Dancity.mp3 -> 20111120-Telematic-02-Dancity.mp3
+    97 [Joint MP3s] 20111120-03-ILoveTif.mp3 -> 20111120-Telematic-03-ILoveTif.mp3
+    98 [Joint MP3s] 20111120-04-PentaLoc.mp3 -> 20111120-Telematic-04-PentaLoc.mp3
+    99 [Joint MP3s] 20111120-05-Pulse.mp3 -> 20111120-Telematic-05-Pulse.mp3
+    100 [Joint MP3s] 20111120-06-November6.mp3 -> 20111120-Telematic-06-November6.mp3
+    101 [Joint MP3s] 20111120-07-MicroStroll.mp3 -> 20111120-Telematic-07-MicroStroll.mp3
+    102 [Joint MP3s] 20111120-08-Improvisation.mp3 -> 20111120-Telematic-08-Improvisation.mp3
+Unbalanced Changes=====Done=====20111122-Gospel1    103 [Joint MP3s] 20111122-01-Gospel1.mp3 -> 20111122-Gospel1-01-Gospel1.mp3
+    104 [Joint MP3s] 20111122-02-Gospel2.mp3 -> 20111122-Gospel1-02-Gospel2.mp3
+Unbalanced Changes=====Done=====20111128-JazzConcert1    105 [Joint MP3s] 20111128-01-Bolivia.mp3 -> 20111128-JazzConcert1-01-Bolivia.mp3
+    106 [Joint MP3s] 20111128-02-Nomkhosi.mp3 -> 20111128-JazzConcert1-02-Nomkhosi.mp3
+    107 [Joint MP3s] 20111128-03-Inutil.mp3 -> 20111128-JazzConcert1-03-Inutil.mp3
+    108 [Joint MP3s] 20111128-04-WhatLoveIs.mp3 -> 20111128-JazzConcert1-04-WhatLoveIs.mp3
+    109 [Joint MP3s] 20111128-05-MrDC.mp3 -> 20111128-JazzConcert1-05-MrDC.mp3
+    110 [Joint MP3s] 20111128-06-LoveMe.mp3 -> 20111128-JazzConcert1-06-LoveMe.mp3
+    111 [Joint MP3s] 20111128-07-Johnny.mp3 -> 20111128-JazzConcert1-07-Johnny.mp3
+    112 [Joint MP3s] 20111128-08-Bourbon.mp3 -> 20111128-JazzConcert1-08-Bourbon.mp3
+    113 [Joint MP3s] 20111128-09-DontExist.mp3 -> 20111128-JazzConcert1-09-DontExist.mp3
+    114 [Joint MP3s] 20111128-10-Cantaloupe.mp3 -> 20111128-JazzConcert1-10-Cantaloupe.mp3
+    115 [Joint MP3s] 20111128-11-Biaxident.mp3 -> 20111128-JazzConcert1-11-Biaxident.mp3
+Unbalanced Changes=====Done=====20111130-CE1    116 [Joint MP3s] 20111130-01-FivePiecesOp56.mp3 -> 20111130-CE1-01-FivePiecesOp56.mp3
+    117 [Joint MP3s] 20111130-02-GermSongsOp103.mp3 -> 20111130-CE1-02-GermSongsOp103.mp3
+    118 [Joint MP3s] 20111130-03-TrioSonataGmaj.mp3 -> 20111130-CE1-03-TrioSonataGmaj.mp3
+    119 [Joint MP3s] 20111130-04-LiebesliederWal.mp3 -> 20111130-CE1-04-LiebesliederWal.mp3
+    120 [Joint MP3s] 20111130-05-Vocalise.mp3 -> 20111130-CE1-05-Vocalise.mp3
+    121 [Joint MP3s] 20111130-06-TrioOp87.mp3 -> 20111130-CE1-06-TrioOp87.mp3
+    122 [Joint MP3s] 20111130-07-ClarQuintKV581.mp3 -> 20111130-CE1-07-ClarQuintKV581.mp3
+    123 [Joint MP3s] 20111130-08-PianoTrioOp66.mp3 -> 20111130-CE1-08-PianoTrioOp66.mp3
+    124 [Joint MP3s] 20111130-09-MaidenFair.mp3 -> 20111130-CE1-09-MaidenFair.mp3
+    125 [Joint MP3s] 20111130-10-PetiteSuite.mp3 -> 20111130-CE1-10-PetiteSuite.mp3
+    126 [Joint MP3s] 20111130-11-PianoQuartG.mp3 -> 20111130-CE1-11-PianoQuartG.mp3
+    127 [Joint MP3s] 20111130-12-CosiFanTutte.mp3 -> 20111130-CE1-12-CosiFanTutte.mp3
+    128 [Joint MP3s] 20111130-13-PianoQuintOp44.mp3 -> 20111130-CE1-13-PianoQuintOp44.mp3
+Unbalanced Changes=====Done=====20111130-LJSC12=====Done=====20111201-Wind1    129 [Stereo 96] 20111201-01-NightInMexico.wav -> 20111201-Wind1-01-NightInMexico.wav
+    130 [Stereo 96] 20111201-02-ConClarWndEns.wav -> 20111201-Wind1-02-ConClarWndEns.wav
+    131 [Stereo 96] 20111201-02-VivaMexico.wav -> 20111201-Wind1-02-VivaMexico.wav
+    132 [Stereo 96] 20111201-04-Juanez.wav -> 20111201-Wind1-04-Juanez.wav
+    1 [Stereo 96] 20111201-05-Batuque1.wav -> 20111201-Wind1-05-Batuque1.wav
+    2 [Stereo 96] 20111201-05-Impetuosamente.wav -> 20111201-Wind1-05-Impetuosamente.wav
+    3 [Stereo 96] 20111201-07-Danza1.wav -> 20111201-Wind1-07-Danza1.wav
+    4 [Stereo 96] 20111201-07-LaCumparista.wav -> 20111201-Wind1-07-LaCumparista.wav
+    5 [MP3] 20111201-02-ConClarWndEns.mp3 -> 20111201-Wind1-02-ConClarWndEns.mp3
+    6 [Joint MP3s] 20111201-01-NightInMexico.mp3 -> 20111201-Wind1-01-NightInMexico.mp3
+    7 [Joint MP3s] 20111201-02-ConClarWndEns.mp3 -> 20111201-Wind1-02-ConClarWndEns.mp3
+    8 [Joint MP3s] 20111201-03-VivaMexico.mp3 -> 20111201-Wind1-03-VivaMexico.mp3
+    9 [Joint MP3s] 20111201-04-Juanez.mp3 -> 20111201-Wind1-04-Juanez.mp3
+    10 [Joint MP3s] 20111201-05-Impetuosamente.mp3 -> 20111201-Wind1-05-Impetuosamente.mp3
+    11 [Joint MP3s] 20111201-06-Batuque.mp3 -> 20111201-Wind1-06-Batuque.mp3
+    12 [Joint MP3s] 20111201-07-LaCumparista.mp3 -> 20111201-Wind1-07-LaCumparista.mp3
+    13 [Joint MP3s] 20111201-08-Danza.mp3 -> 20111201-Wind1-08-Danza.mp3
+Unbalanced Changes=====Done=====20111203-LJSC21    14 [Joint MP3s] 20111203-01-GrindToAHalt.mp3 -> 20111203-LJSC21-01-GrindToAHalt.mp3
+    15 [Joint MP3s] 20111203-02-CantataProfana.mp3 -> 20111203-LJSC21-02-CantataProfana.mp3
+    16 [Joint MP3s] 20111203-03-PoemeSymphoniq.mp3 -> 20111203-LJSC21-03-PoemeSymphoniq.mp3
+    17 [Joint MP3s] 20111203-04-LesNoces.mp3 -> 20111203-LJSC21-04-LesNoces.mp3
+Unbalanced Changes=====Done=====20111204-LJSC22=====Done=====20111205-1stMonDec    18 [Joint MP3s] 20111205-01-Sonatina.mp3 -> 20111205-1stMonDec-01-Sonatina.mp3
+    19 [Joint MP3s] 20111205-02-StillsEdges.mp3 -> 20111205-1stMonDec-02-StillsEdges.mp3
+    20 [Joint MP3s] 20111205-03-PianoSonataNo1.mp3 -> 20111205-1stMonDec-03-PianoSonataNo1.mp3
+Unbalanced Changes=====Done=====20111205-CamLu4    21 [Joint MP3s] 20111205-01-PianoQuartet.mp3 -> 20111205-CamLu4-01-PianoQuartet.mp3
+    22 [Joint MP3s] 20111205-02-TrioOp3.mp3 -> 20111205-CamLu4-02-TrioOp3.mp3
+    23 [Joint MP3s] 20111205-03-Siegfried.mp3 -> 20111205-CamLu4-03-Siegfried.mp3
+    24 [Joint MP3s] 20111205-04-Emperor.mp3 -> 20111205-CamLu4-04-Emperor.mp3
+Unbalanced Changes=====Done=====20111206-103A    25 [Joint MP3s] 20111206-01-OutofTime.mp3 -> 20111206-103A-01-OutofTime.mp3
+    26 [Joint MP3s] 20111206-02-CaliForYa.mp3 -> 20111206-103A-02-CaliForYa.mp3
+    27 [Joint MP3s] 20111206-03-Signals.mp3 -> 20111206-103A-03-Signals.mp3
+    28 [Joint MP3s] 20111206-04-Paradox.mp3 -> 20111206-103A-04-Paradox.mp3
+    29 [Joint MP3s] 20111206-05-LoveaDubDub.mp3 -> 20111206-103A-05-LoveaDubDub.mp3
+Unbalanced Changes=====Done=====20111207-MUS132    30 [Joint MP3s] 20111207-01-PianoSonataOp90.mp3 -> 20111207-MUS132-01-PianoSonataOp90.mp3
+    31 [Joint MP3s] 20111207-02-Impromptu.mp3 -> 20111207-MUS132-02-Impromptu.mp3
+    32 [Joint MP3s] 20111207-03-SonataNo1.mp3 -> 20111207-MUS132-03-SonataNo1.mp3
+    33 [Joint MP3s] 20111207-04-AmericanBerserk.mp3 -> 20111207-MUS132-04-AmericanBerserk.mp3
+    34 [Joint MP3s] 20111207-05-Pinetop.mp3 -> 20111207-MUS132-05-Pinetop.mp3
+    35 [Joint MP3s] 20111207-06-SonataFMajor.mp3 -> 20111207-MUS132-06-SonataFMajor.mp3
+    36 [Joint MP3s] 20111207-07-Sonatina.mp3 -> 20111207-MUS132-07-Sonatina.mp3
+    37 [Joint MP3s] 20111207-08-SonataBFlatMaj.mp3 -> 20111207-MUS132-08-SonataBFlatMaj.mp3
+Unbalanced Changes=====Done=====20111207-MUS33    38 [Joint MP3s] 20111207-01-Brother.mp3 -> 20111207-MUS33-01-Brother.mp3
+    39 [Joint MP3s] 20111207-02-RosenComments.mp3 -> 20111207-MUS33-02-RosenComments.mp3
+    40 [Joint MP3s] 20111207-03-LeftBehind.mp3 -> 20111207-MUS33-03-LeftBehind.mp3
+    41 [Joint MP3s] 20111207-04-MorganComments.mp3 -> 20111207-MUS33-04-MorganComments.mp3
+    42 [Joint MP3s] 20111207-05-WistfulSolace.mp3 -> 20111207-MUS33-05-WistfulSolace.mp3
+    43 [Joint MP3s] 20111207-06-ChanComments.mp3 -> 20111207-MUS33-06-ChanComments.mp3
+    44 [Joint MP3s] 20111207-07-TheChase.mp3 -> 20111207-MUS33-07-TheChase.mp3
+    45 [Joint MP3s] 20111207-08-FaneneComments.mp3 -> 20111207-MUS33-08-FaneneComments.mp3
+    46 [Joint MP3s] 20111207-09-Runaway.mp3 -> 20111207-MUS33-09-Runaway.mp3
+    47 [Joint MP3s] 20111207-10-KimComments.mp3 -> 20111207-MUS33-10-KimComments.mp3
+    48 [Joint MP3s] 20111207-11-YourDay.mp3 -> 20111207-MUS33-11-YourDay.mp3
+    49 [Joint MP3s] 20111207-12-PerryComments.mp3 -> 20111207-MUS33-12-PerryComments.mp3
+    50 [Joint MP3s] 20111207-13-CompCello.mp3 -> 20111207-MUS33-13-CompCello.mp3
+    51 [Joint MP3s] 20111207-14-CampbellCom.mp3 -> 20111207-MUS33-14-CampbellCom.mp3
+    52 [Joint MP3s] 20111207-15-PianoComp1.mp3 -> 20111207-MUS33-15-PianoComp1.mp3
+    53 [Joint MP3s] 20111207-16-BaileyComments.mp3 -> 20111207-MUS33-16-BaileyComments.mp3
+    54 [Joint MP3s] 20111207-17-Durango.mp3 -> 20111207-MUS33-17-Durango.mp3
+    187 [Joint MP3s] 20111207-18-ShanerComments.mp3 -> 20111207-MUS33-18-ShanerComments.mp3
+Unbalanced Changes=====Done=====Stereo 48=====Done=====
+
